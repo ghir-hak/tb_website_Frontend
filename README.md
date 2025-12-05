@@ -1,28 +1,32 @@
 <div align="center">
- <p align="center">
-  <a href="https://discord.gg/KbN3KN7kpQ">
-    <img src="images/discord-btn.png" alt="Join our Discord" width="150">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://tau.how">
-    <img src="images/docs-btn.png" alt="Read the Docs" width="150">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://console.taubyte.com">
-    <img src="images/sandbox-btn.png" alt="Try our Sandbox" width="150">
-  </a>
-</p>
 
-<p align="center">
-  <img src="images/logo.png" alt="Tau Logo" width="100">
-  &nbsp;&nbsp;
-  <img src="images/logo.png" alt="Tau Logo" width="100">
-</p>
 
 
 [![Release](https://img.shields.io/github/v/release/taubyte/tau?style=flat-square)](https://github.com/taubyte/tau/releases/latest)
 [![License](https://img.shields.io/github/license/taubyte/tau?style=flat-square)](LICENSE)
 [![Go Report Card](https://goreportcard.com/badge/github.com/taubyte/tau)](https://goreportcard.com/report/github.com/taubyte/tau)
+
+ <p align="center">
+    <img  height="50" alt="Frame 1" src="https://github.com/user-attachments/assets/17cfe4c4-bef4-4ba8-ba78-0a3b97404152" />
+  <a href="https://discord.gg/KbN3KN7kpQ">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://tau.how">
+    <img  height="50" alt="Frame 2" src="https://github.com/user-attachments/assets/8a568f42-2029-43ac-9b29-7f85c406675a" />
+
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://console.taubyte.com">
+     <img  height="50" alt="Frame 3" src="https://github.com/user-attachments/assets/9dfe8936-d60b-4d79-ae94-5a3c0b9bacf7" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://console.taubyte.com">
+   <img width="472" height="392" alt="Frame 51" src="https://github.com/user-attachments/assets/c5fa681a-f64e-4c2c-b8fc-4bb7bf1c6095" />
+
+  </a>
+</p>
 
 # Distributed Cloud Platform
 
@@ -36,29 +40,15 @@
 
 It provides all the infrastructure components needed to build and run modern applications, including:
 
-- **Serverless functions**
-- **Static hosting**
-- **Databases**
-- **Storage**
-- **Messaging**
-- **CI/CD pipelines**
+<img width="1882" height="937" alt="Slide 16_9 - 1 (4)" src="https://github.com/user-attachments/assets/5a3022f1-0b6e-40eb-b499-8db42b3269ea" />
 
 All of this works _without relying on third-party cloud providers_, giving you full control over your deployments.
+</br>
 
-### Key Differentiators
+## Key Differentiators
 
-<div align="center">
+<img width="1204" height="1004" alt="Group 9 1" src="https://github.com/user-attachments/assets/79f99b34-60b4-4bf4-bbcb-b4c1df124d33" />
 
-|                                                                                                                                                                         |                                                                                                                                                            |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Git-Native by Design**                                                                                                                                                | **Peer-to-Peer Architecture**                                                                                                                              |
-| Infrastructure is defined in Git repositories.<br>Every commit triggers automatic deployment.<br>No API calls, no infrastructure-as-code tools, no manual provisioning. | Built on libp2p, nodes automatically discover each other, handle failures, and distribute content.<br>No central coordination, no single point of failure. |
-| **WebAssembly Runtime**                                                                                                                                                 | **Content-Addressed Storage**                                                                                                                              |
-| Applications run in sandboxed WebAssembly environments.<br>Fast cold starts (~10ms) and near-native performance.                                                        | Files are stored by cryptographic hash (IPFS).<br>Automatic deduplication, parallel distribution, and integrity verification.                              |
-| **Local-to-Production Parity**                                                                                                                                          | **Zero Dependencies**                                                                                                                                      |
-| Development environments run the exact same services as production.<br>No mocking, no simulation, no environmental drift.                                               | Single static binary with no external dependencies.<br>No Kubernetes, no orchestration complexity—just one binary.                                         |
-
-</div>
 
 ## Core Features
 
