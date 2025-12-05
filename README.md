@@ -1,384 +1,153 @@
 <div align="center">
+ <p align="center">
   <a href="https://discord.gg/KbN3KN7kpQ">
-    <img src="images/discord-btn.png" alt="Join our Discord" height="30">
+    <img src="images/discord-btn.png" alt="Join our Discord" width="150">
   </a>
+  &nbsp;&nbsp;
   <a href="https://tau.how">
-    <img src="images/docs-btn.png" alt="Read the Docs" height="30">
+    <img src="images/docs-btn.png" alt="Read the Docs" width="150">
   </a>
+  &nbsp;&nbsp;
   <a href="https://console.taubyte.com">
-    <img src="images/sandbox-btn.png" alt="Try our Sandbox" height="30">
+    <img src="images/sandbox-btn.png" alt="Try our Sandbox" width="150">
   </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://taubyte.com" target="_blank" rel="noopener noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="images/logo-with-text-tau-white.png">
-      <img width="160" src="images/logo-with-text-tau-black.png" alt="Tau Logo">
-    </picture>
-  </a>
-  
-  <br/>
-  <br/>
-
-  <a href="https://github.com/taubyte/tau/releases">
-    <img src="https://img.shields.io/github/release/taubyte/tau.svg" alt="Release">
-  </a>
-  <a href="LICENSE">
-    <img src="https://img.shields.io/github/license/taubyte/tau" alt="License">
-  </a>
-  <a href="https://goreportcard.com/report/github.com/taubyte/tau">
-    <img src="https://goreportcard.com/badge/github.com/taubyte/tau" alt="Go Report Card">
-  </a>
-
-  <h1>Distributed Cloud Platform</h1>
-  <p><strong>Self-hosted • Git-native • P2P architecture</strong></p>
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-  <h2>What is Taubyte?</h2>
-</div>
-
-<p align="center">
-Taubyte is a complete, self-hosted cloud platform that you deploy with a single binary.<br/>
-It provides all the infrastructure components needed to build and run modern applications—<br/>
-serverless functions, static hosting, databases, storage, messaging, and CI/CD—<br/>
-without relying on third-party cloud providers.
 </p>
 
-<br/>
+<p align="center">
+  <img src="images/logo.png" alt="Tau Logo" width="100">
+  &nbsp;&nbsp;
+  <img src="images/logo.png" alt="Tau Logo" width="100">
+</p>
 
-<div align="center">
+
+[![Release](https://img.shields.io/github/v/release/taubyte/tau?style=flat-square)](https://github.com/taubyte/tau/releases/latest)
+[![License](https://img.shields.io/github/license/taubyte/tau?style=flat-square)](LICENSE)
+[![Go Report Card](https://goreportcard.com/badge/github.com/taubyte/tau)](https://goreportcard.com/report/github.com/taubyte/tau)
+
+# Distributed Cloud Platform
+
+**Self-hosted • Git-native • P2P architecture**
+
+</div>
+
+## What is Taubyte?
+
+**Taubyte** is a complete, _self-hosted cloud platform_ that you can deploy with a **single binary**.
+
+It provides all the infrastructure components needed to build and run modern applications, including:
+
+- **Serverless functions**
+- **Static hosting**
+- **Databases**
+- **Storage**
+- **Messaging**
+- **CI/CD pipelines**
+
+All of this works _without relying on third-party cloud providers_, giving you full control over your deployments.
 
 ### Key Differentiators
 
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-**🔄 Git-Native by Design**
-
-Infrastructure is defined in Git repositories. Every commit triggers automatic deployment. No API calls, no infrastructure-as-code tools, no manual provisioning.
-
-</td>
-<td align="center" width="50%">
-
-**🌐 Peer-to-Peer Architecture**
-
-Built on libp2p, nodes automatically discover each other, handle failures, and distribute content. No central coordination, no single point of failure.
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-**⚡ WebAssembly Runtime**
-
-Applications run in sandboxed WebAssembly environments with fast cold starts (~10ms) and near-native performance.
-
-</td>
-<td align="center" width="50%">
-
-**🔐 Content-Addressed Storage**
-
-Files are stored by cryptographic hash (IPFS), enabling automatic deduplication, parallel distribution, and integrity verification.
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-**💻 Local-to-Production Parity**
-
-Development environments run the exact same services as production. No mocking, no simulation, no environmental drift.
-
-</td>
-<td align="center" width="50%">
-
-**🚀 Zero Dependencies**
-
-Single static binary with no external dependencies. No Kubernetes, no orchestration complexity, just one binary.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<br/>
-
 <div align="center">
-  <h2>Core Features</h2>
+
+|                                                                                                                                                                         |                                                                                                                                                            |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Git-Native by Design**                                                                                                                                                | **Peer-to-Peer Architecture**                                                                                                                              |
+| Infrastructure is defined in Git repositories.<br>Every commit triggers automatic deployment.<br>No API calls, no infrastructure-as-code tools, no manual provisioning. | Built on libp2p, nodes automatically discover each other, handle failures, and distribute content.<br>No central coordination, no single point of failure. |
+| **WebAssembly Runtime**                                                                                                                                                 | **Content-Addressed Storage**                                                                                                                              |
+| Applications run in sandboxed WebAssembly environments.<br>Fast cold starts (~10ms) and near-native performance.                                                        | Files are stored by cryptographic hash (IPFS).<br>Automatic deduplication, parallel distribution, and integrity verification.                              |
+| **Local-to-Production Parity**                                                                                                                                          | **Zero Dependencies**                                                                                                                                      |
+| Development environments run the exact same services as production.<br>No mocking, no simulation, no environmental drift.                                               | Single static binary with no external dependencies.<br>No Kubernetes, no orchestration complexity—just one binary.                                         |
+
 </div>
 
-<table>
-<thead>
-<tr>
-<th>Feature</th>
-<th>Description</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Serverless Functions</strong></td>
-<td>Event-driven compute with HTTP, pub/sub, and P2P triggers. Compiled to WebAssembly for security and portability.</td>
-</tr>
-<tr>
-<td><strong>Static Hosting</strong></td>
-<td>Serve websites with automatic HTTPS certificates via Let's Encrypt. Global edge distribution included.</td>
-</tr>
-<tr>
-<td><strong>Databases</strong></td>
-<td>Key-value stores with application or global scope. CRDT-based replication for conflict-free synchronization.</td>
-</tr>
-<tr>
-<td><strong>Object Storage</strong></td>
-<td>S3-compatible storage with content addressing. Automatic deduplication and multi-node distribution.</td>
-</tr>
-<tr>
-<td><strong>Messaging</strong></td>
-<td>Pub/sub channels using GossipSub protocol. Asynchronous communication between services and functions.</td>
-</tr>
-<tr>
-<td><strong>Custom Domains</strong></td>
-<td>Bring your own domain with automatic TLS provisioning. DNS and certificate management handled automatically.</td>
-</tr>
-<tr>
-<td><strong>CI/CD Pipeline</strong></td>
-<td>Git webhooks trigger builds in isolated Docker containers. Artifacts stored in content-addressed storage.</td>
-</tr>
-<tr>
-<td><strong>Edge Distribution</strong></td>
-<td>Geographic routing based on node location. Traffic automatically directed to nearest healthy instance.</td>
-</tr>
-<tr>
-<td><strong>Plugin System</strong></td>
-<td>Extend platform capabilities with Orbit plugins. Add integrations without modifying core services.</td>
-</tr>
-</tbody>
-</table>
+## Core Features
 
-<br/>
+**Serverless Functions**  
+Event-driven compute with HTTP, pub/sub, and P2P triggers.  
+Compiled to WebAssembly for security and portability.
 
----
+**Static Hosting**  
+Serve websites with automatic HTTPS certificates via Let's Encrypt.  
+Global edge distribution included for fast access.
 
-<br/>
+**Databases**  
+Key-value stores with application or global scope.  
+CRDT-based replication ensures conflict-free synchronization.
 
-<div align="center">
-  <h2>Technology Highlights</h2>
-  <p><em>Modern, proven technologies built into Taubyte</em></p>
-</div>
+**Object Storage**  
+S3-compatible storage with content addressing.  
+Automatic deduplication and multi-node distribution.
 
-<br/>
+**Messaging**  
+Pub/sub channels using GossipSub protocol.  
+Enables asynchronous communication between services and functions.
 
-<table align="center">
-<tr>
-<td width="33%" valign="top">
+**Edge Distribution**  
+Geographic routing based on node location.  
+Traffic automatically directed to nearest healthy instance.
+
+**Custom Domains**  
+Bring your own domain with automatic TLS provisioning.  
+DNS and certificate management handled automatically.
+
+**CI/CD Pipeline**  
+Git webhooks trigger builds in isolated Docker containers.  
+Artifacts stored in content-addressed storage.
+
+**Plugin System**  
+Extend platform capabilities with Orbit plugins.  
+Add integrations without modifying core services.
+
+### Technology Highlights
+
+_Modern, proven technologies built into Taubyte_
 
 <div align="center">
 
-### WebAssembly & Runtime
+|                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **WebAssembly & Runtime**                                                                                                                                                                                                                 | **Distributed Systems**                                                                                                                                                                                                                                                                        |
+| • **[wazero](https://wazero.io/)** - Pure Go WebAssembly runtime with JIT compilation<br>• WASI Support - WebAssembly System Interface<br>• ~10ms cold starts for near-instant initialization                                             | • **[CRDT](https://github.com/ipfs/go-ds-crdt)** - Conflict-free replicated data types<br>• **[Pebble](https://github.com/cockroachdb/pebble)** - LSM-tree storage (RocksDB-style)<br>• **[Kademlia DHT](https://en.wikipedia.org/wiki/Kademlia)** - Distributed hash table for peer discovery |
+| **P2P Networking**                                                                                                                                                                                                                        | **Additional Tools & Support**                                                                                                                                                                                                                                                                 |
+| • **[libp2p](https://libp2p.io/)** - Modular P2P networking stack<br>• GossipSub - Efficient pub/sub messaging<br>• Circuit Relay - NAT traversal<br>• **[IPFS Lite](https://github.com/hsanjuan/ipfs-lite)** - Content-addressed storage | • Monitoring, metrics, and plugins for extending platform capabilities<br>• Built-in support for CI/CD pipelines and local-to-production parity<br>• Ensures reliable, high-performance deployments                                                                                            |
 
 </div>
 
-- **[wazero](https://wazero.io/)** - Pure Go WebAssembly runtime with JIT compilation
-- **WASI Support** - WebAssembly System Interface
-- **~10ms cold starts** - Near-instant initialization
+## Example Applications
 
-</td>
-<td width="33%" valign="top">
+_See real-world applications built with Taubyte_
+
+<!-- TODO: Add real example applications with screenshots and links -->
+
+## Getting Started
+
+### Local Development with Dream
+
+The recommended way to start with Taubyte is **Dream**—a complete cloud environment that runs on your local machine.
 
 <div align="center">
 
-### Distributed Systems
+|                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                         |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| **Option 1: Dream Desktop**<br>**Recommended**<br><br>Graphical interface for managing local cloud instances.<br><br>**Download:**<br>• Linux: [Download](https://github.com/taubyte/dream/releases/latest)<br>• Windows: [Download](https://github.com/taubyte/dream/releases/latest)<br>• macOS: [Download](https://github.com/taubyte/dream/releases/latest) | **Option 2: Dream CLI**<br>**For automation & CI/CD**<br><br>`npm install -g @taubyte/dream`<br>`dream` |
 
 </div>
 
-- **[CRDT](https://github.com/ipfs/go-ds-crdt)** - Conflict-free replicated data types
-- **[Pebble](https://github.com/cockroachdb/pebble)** - LSM-tree storage (RocksDB-style)
-- **[Kademlia DHT](https://en.wikipedia.org/wiki/Kademlia)** - Distributed hash table
-
-</td>
-<td width="33%" valign="top">
-
-<div align="center">
-
-### P2P Networking
-
-</div>
-
-- **[libp2p](https://libp2p.io/)** - Modular P2P networking stack
-- **GossipSub** - Efficient pub/sub messaging
-- **Circuit Relay** - NAT traversal
-- **[IPFS Lite](https://github.com/hsanjuan/ipfs-lite)** - Content-addressed storage
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-<div align="center">
-
-### Security & Certificates
-
-</div>
-
-- **[ACME Protocol](https://letsencrypt.org/)** - Automatic TLS via Let's Encrypt
-- **WebAssembly Sandboxing** - Memory-safe execution
-
-</td>
-<td width="33%" valign="top">
-
-<div align="center">
-
-### Developer Tools
-
-</div>
-
-- **[Starlark](https://github.com/google/starlark-go)** - Python-like scripting
-- **[MCP](https://modelcontextprotocol.io/)** - AI-assisted development
-- **Taucorder** - Network debugging
-- **Sensors** - Real-time metrics
-
-</td>
-<td width="33%" valign="top">
-
-<div align="center">
-
-### Build & CI/CD
-
-</div>
-
-- **Docker** - Isolated build environments
-- **Git Webhooks** - Native GitHub integration
-- **Content Addressing** - Immutable artifacts
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-  <h2>Example Applications</h2>
-  <p><em>See real-world applications built with Taubyte</em></p>
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- USER: Add YouTube video links here -->
-
-**[Link to Video 1]** - [Description of application]
-
-**[Link to Video 2]** - [Description of application]
-
-**[Link to Video 3]** - [Description of application]
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-  <h2>Getting Started</h2>
-  <h3>Local Development with Dream</h3>
-  <p>The recommended way to start with Taubyte is <strong>Dream</strong>—a complete cloud environment that runs on your local machine.</p>
-</div>
-
-<br/>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### Option 1: Dream Desktop
-**Recommended**
-
-Graphical interface for managing local cloud instances.
-
-**Download:**
-- Linux: [Download link]
-- Windows: [Download link]
-- macOS: [Download link]
-
-</td>
-<td align="center" width="50%">
-
-### Option 2: Dream CLI
-**For automation & CI/CD**
-
-```bash
-npm install -g @taubyte/dream
-dream
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-  <h2>Setup Instructions</h2>
-</div>
-
-<br/>
+## Setup Instructions
 
 <details>
 <summary><h3>Step 1: Configure Local DNS</h3></summary>
 
-<br/>
-
 Dream requires a DNS entry to function properly. Add the following to your system's hosts file:
 
-<table>
-<thead>
-<tr>
-<th>Operating System</th>
-<th>File Path</th>
-<th>Entry</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Linux / macOS</td>
-<td><code>/etc/hosts</code></td>
-<td><code>127.0.0.1 hal.computers.com</code></td>
-</tr>
-<tr>
-<td>Windows</td>
-<td><code>C:\Windows\System32\drivers\etc\hosts</code></td>
-<td><code>127.0.0.1 hal.computers.com</code></td>
-</tr>
-</tbody>
-</table>
+<div align="center">
 
-<br/>
+| Operating System | File Path                               | Entry                         |
+| ---------------- | --------------------------------------- | ----------------------------- |
+| Linux / macOS    | `/etc/hosts`                            | `127.0.0.1 hal.computers.com` |
+| Windows          | `C:\Windows\System32\drivers\etc\hosts` | `127.0.0.1 hal.computers.com` |
+
+</div>
 
 This allows Dream to handle requests as if it were a real cloud deployment.
 
@@ -387,43 +156,19 @@ This allows Dream to handle requests as if it were a real cloud deployment.
 <details>
 <summary><h3>Step 2: Create a Universe</h3></summary>
 
-<br/>
-
 Launch Dream Desktop and create a new universe.
+
+**What is a Universe?**  
+A universe is an isolated Taubyte cloud instance running locally. It includes all platform services (Gateway, Substrate, Storage, Auth, Build services) and behaves identically to a production deployment.
 
 <div align="center">
 
-**What is a Universe?**
-
-A universe is an isolated Taubyte cloud instance running locally. It includes all platform services (Gateway, Substrate, Storage, Auth, Build services) and behaves identically to a production deployment.
+| Type           | Use Case                         | Persistence     |
+| -------------- | -------------------------------- | --------------- |
+| **Ephemeral**  | Quick testing, experimentation   | Deleted on exit |
+| **Persistent** | Active development, project work | Saved to disk   |
 
 </div>
-
-<br/>
-
-<table align="center">
-<thead>
-<tr>
-<th>Type</th>
-<th>Use Case</th>
-<th>Persistence</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Ephemeral</strong></td>
-<td>Quick testing, experimentation</td>
-<td>Deleted on exit</td>
-</tr>
-<tr>
-<td><strong>Persistent</strong></td>
-<td>Active development, project work</td>
-<td>Saved to disk</td>
-</tr>
-</tbody>
-</table>
-
-<br/>
 
 Name your universe (e.g., "development") and click Create.
 
@@ -432,29 +177,21 @@ Name your universe (e.g., "development") and click Create.
 <details>
 <summary><h3>Step 3: Connect to Web Console</h3></summary>
 
-<br/>
-
-<div align="center">
-
 Navigate to **[console.taubyte.com](https://console.taubyte.com)** in your browser.
 
 The console automatically detects your local Dream instance and establishes a connection.
-
-</div>
 
 </details>
 
 <details>
 <summary><h3>Step 4: Create a Project</h3></summary>
 
-<br/>
-
 In the console:
 
-1. Click **New Project**
-2. Enter a project name (e.g., "my-application")
-3. Connect to a GitHub repository (or create a new one)
-4. Click Create
+- Click **New Project**
+- Enter a project name (e.g., "my-application")
+- Connect to a GitHub repository (or create a new one)
+- Click Create
 
 The console generates a `.taubyte` directory in your repository with initial configuration.
 
@@ -463,88 +200,33 @@ The console generates a `.taubyte` directory in your repository with initial con
 <details>
 <summary><h3>Step 5: Add Resources</h3></summary>
 
-<br/>
-
-<div align="center">
-
 Taubyte organizes applications into composable resources.
 
-</div>
-
-<br/>
-
-<table>
-<thead>
-<tr>
-<th>Resource Type</th>
-<th>Purpose</th>
-<th>Scope</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Function</strong></td>
-<td>Serverless compute with event triggers</td>
-<td>Application</td>
-</tr>
-<tr>
-<td><strong>Website</strong></td>
-<td>Static file hosting with CDN</td>
-<td>Application</td>
-</tr>
-<tr>
-<td><strong>Database</strong></td>
-<td>Key-value data storage</td>
-<td>Application or Global</td>
-</tr>
-<tr>
-<td><strong>Storage</strong></td>
-<td>Object storage for files and assets</td>
-<td>Application or Global</td>
-</tr>
-<tr>
-<td><strong>Messaging</strong></td>
-<td>Pub/sub channels for async communication</td>
-<td>Application or Global</td>
-</tr>
-<tr>
-<td><strong>Service</strong></td>
-<td>Long-running background processes</td>
-<td>Application</td>
-</tr>
-<tr>
-<td><strong>Library</strong></td>
-<td>Shared code modules</td>
-<td>Application</td>
-</tr>
-<tr>
-<td><strong>Domain</strong></td>
-<td>Custom DNS with automatic TLS</td>
-<td>Application or Global</td>
-</tr>
-<tr>
-<td><strong>SmartOps</strong></td>
-<td>Event-driven automation workflows</td>
-<td>Application</td>
-</tr>
-</tbody>
-</table>
-
-<br/>
-
 <div align="center">
 
-**Example: Creating a Function**
+| Resource Type | Purpose                                  | Scope                 |
+| ------------- | ---------------------------------------- | --------------------- |
+| **Function**  | Serverless compute with event triggers   | Application           |
+| **Website**   | Static file hosting with CDN             | Application           |
+| **Database**  | Key-value data storage                   | Application or Global |
+| **Storage**   | Object storage for files and assets      | Application or Global |
+| **Messaging** | Pub/sub channels for async communication | Application or Global |
+| **Service**   | Long-running background processes        | Application           |
+| **Library**   | Shared code modules                      | Application           |
+| **Domain**    | Custom DNS with automatic TLS            | Application or Global |
+| **SmartOps**  | Event-driven automation workflows        | Application           |
 
 </div>
+
+**Example: Creating a Function**
 
 1. Select **Function** from resource types
 2. Configure:
    - Name: `api`
-   - Language: `Go` / `Rust` / `AssemblyScript`
-   - Trigger: `HTTP`
+   - Language: Go / Rust / AssemblyScript
+   - Trigger: HTTP
    - Path: `/api/*`
-   - Method: `GET, POST`
+   - Method: GET, POST
 3. Click Create
 
 The console generates a code template in your repository under `functions/api/`.
@@ -554,8 +236,6 @@ The console generates a code template in your repository under `functions/api/`.
 <details>
 <summary><h3>Step 6: Deploy Your Application</h3></summary>
 
-<br/>
-
 Commit and push your changes:
 
 ```bash
@@ -564,13 +244,7 @@ git commit -m "Add API function"
 git push origin main
 ```
 
-<br/>
-
-<div align="center">
-
 **What happens next:**
-
-</div>
 
 1. GitHub sends a webhook to your Dream instance
 2. Patrick (CI/CD service) receives the webhook and creates a build job
@@ -579,55 +253,21 @@ git push origin main
 5. TNS (configuration service) updates with the new deployment
 6. Substrate (runtime service) loads and executes your function
 
-<br/>
-
-<div align="center">
-
 Access your function at: `http://hal.computers.com/api/your-endpoint`
-
-</div>
 
 </details>
 
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-  <h2>Production Deployment</h2>
-</div>
-
-<br/>
-
-<div align="center">
+## Production Deployment
 
 ### Using Spore Drive (Recommended)
 
 Spore Drive automates Taubyte installation and configuration across multiple servers.
 
-<!-- USER: I'll help you add this section later -->
-
 **[Section to be added - Spore Drive installation and setup]**
 
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-### Manual Installation
+## Manual Installation
 
 For manual deployment or custom configurations:
-
-</div>
-
-<br/>
 
 ```bash
 # Install Taubyte binary
@@ -641,176 +281,60 @@ tau config generate \
   --swarm
 ```
 
-<br/>
-
-<div align="center">
-
 **Configuration Options:**
 
-</div>
-
-<table align="center">
-<thead>
-<tr>
-<th>Parameter</th>
-<th>Description</th>
-<th>Example</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>--name</code></td>
-<td>Your domain name</td>
-<td><code>cloud.mycompany.com</code></td>
-</tr>
-<tr>
-<td><code>--services</code></td>
-<td>Services to run on this node</td>
-<td><code>all</code> or <code>gateway,substrate</code></td>
-</tr>
-<tr>
-<td><code>--ip</code></td>
-<td>Public IP address</td>
-<td><code>203.0.113.10</code></td>
-</tr>
-<tr>
-<td><code>--swarm</code></td>
-<td>Join P2P network</td>
-<td>Flag (no value)</td>
-</tr>
-</tbody>
-</table>
-
-<br/>
-
 <div align="center">
 
-**Start the node:**
+| Parameter    | Description                  | Example                      |
+| ------------ | ---------------------------- | ---------------------------- |
+| `--name`     | Your domain name             | `cloud.mycompany.com`        |
+| `--services` | Services to run on this node | `all` or `gateway,substrate` |
+| `--ip`       | Public IP address            | `203.0.113.10`               |
+| `--swarm`    | Join P2P network             | Flag (no value)              |
 
 </div>
+
+**Start the node:**
 
 ```bash
 tau start
 ```
 
-<br/>
-
-<div align="center">
-
-### Multi-Node Architecture
+## Multi-Node Architecture
 
 For production deployments, distribute services across specialized nodes:
 
-</div>
-
-<table align="center">
-<thead>
-<tr>
-<th>Node Type</th>
-<th>Services</th>
-<th>Purpose</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Edge</strong></td>
-<td>Gateway, Substrate</td>
-<td>Handle incoming traffic and execute functions</td>
-</tr>
-<tr>
-<td><strong>Build</strong></td>
-<td>Patrick, Monkey</td>
-<td>Process CI/CD builds</td>
-</tr>
-<tr>
-<td><strong>Storage</strong></td>
-<td>Hoarder, TNS</td>
-<td>Store content and configuration</td>
-</tr>
-<tr>
-<td><strong>Discovery</strong></td>
-<td>Seer, Auth</td>
-<td>Service discovery and authentication</td>
-</tr>
-</tbody>
-</table>
-
-<br/>
-
 <div align="center">
 
-Each node automatically discovers and communicates with others via libp2p.
+| Node Type     | Services           | Purpose                                       |
+| ------------- | ------------------ | --------------------------------------------- |
+| **Edge**      | Gateway, Substrate | Handle incoming traffic and execute functions |
+| **Build**     | Patrick, Monkey    | Process CI/CD builds                          |
+| **Storage**   | Hoarder, TNS       | Store content and configuration               |
+| **Discovery** | Seer, Auth         | Service discovery and authentication          |
 
 </div>
 
-<br/>
+Each node automatically discovers and communicates with others via **libp2p**.
 
----
+## Platform Architecture
 
-<br/>
+### Core Services
 
 <div align="center">
-  <h2>Platform Architecture</h2>
-  <h3>Core Services</h3>
+
+| Service       | Role                                               | Technology           |
+| ------------- | -------------------------------------------------- | -------------------- |
+| **Gateway**   | HTTP/HTTPS ingress, routing, load balancing        | Go, ACME, L7 routing |
+| **Substrate** | WebAssembly runtime, function execution            | wazero, WASI         |
+| **Auth**      | GitHub OAuth, webhook management, TLS certificates | Go, Let's Encrypt    |
+| **Patrick**   | CI/CD orchestration, build job management          | Go, PubSub           |
+| **Monkey**    | Code compilation in isolated containers            | Docker, Go           |
+| **TNS**       | Configuration storage with CRDT replication        | go-ds-crdt           |
+| **Seer**      | Service discovery, geographic routing, DNS         | Kademlia DHT         |
+| **Hoarder**   | Content-addressed storage and distribution         | IPFS, Bitswap        |
+
 </div>
-
-<br/>
-
-<table>
-<thead>
-<tr>
-<th>Service</th>
-<th>Role</th>
-<th>Technology</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Gateway</strong></td>
-<td>HTTP/HTTPS ingress, routing, load balancing</td>
-<td>Go, ACME, L7 routing</td>
-</tr>
-<tr>
-<td><strong>Substrate</strong></td>
-<td>WebAssembly runtime, function execution</td>
-<td>wazero, WASI</td>
-</tr>
-<tr>
-<td><strong>Auth</strong></td>
-<td>GitHub OAuth, webhook management, TLS certificates</td>
-<td>Go, Let's Encrypt</td>
-</tr>
-<tr>
-<td><strong>Patrick</strong></td>
-<td>CI/CD orchestration, build job management</td>
-<td>Go, PubSub</td>
-</tr>
-<tr>
-<td><strong>Monkey</strong></td>
-<td>Code compilation in isolated containers</td>
-<td>Docker, Go</td>
-</tr>
-<tr>
-<td><strong>TNS</strong></td>
-<td>Configuration storage with CRDT replication</td>
-<td>go-ds-crdt</td>
-</tr>
-<tr>
-<td><strong>Seer</strong></td>
-<td>Service discovery, geographic routing, DNS</td>
-<td>Kademlia DHT</td>
-</tr>
-<tr>
-<td><strong>Hoarder</strong></td>
-<td>Content-addressed storage and distribution</td>
-<td>IPFS, Bitswap</td>
-</tr>
-</tbody>
-</table>
-
-<br/>
-
-<div align="center">
 
 **Supporting Components:**
 
@@ -818,261 +342,77 @@ Each node automatically discovers and communicates with others via libp2p.
 - **Orbit**: Plugin system for platform extensions
 - **Starlark**: Policy engine for automation rules
 
-</div>
-
-<br/>
-
-<div align="center">
-
 ### Communication Layer
 
 All services communicate over **libp2p** streams with **CBOR-encoded** messages, enabling:
 
+<div align="center">
+
+|                                                          |                                                         |
+| -------------------------------------------------------- | ------------------------------------------------------- |
+| ✅ Automatic peer discovery via Kademlia DHT             | ✅ NAT traversal and relay capabilities (Circuit Relay) |
+| ✅ Transport-agnostic connections (TCP, QUIC, WebSocket) | ✅ Pub/sub messaging via GossipSub protocol             |
+| ✅ Efficient binary serialization (CBOR)                 | ✅ Custom RPC protocol on `/serviceName/v1` paths       |
+
 </div>
 
-<br/>
-
-<table align="center">
-<tr>
-<td align="center">
-
-✅ Automatic peer discovery via Kademlia DHT
-
-</td>
-<td align="center">
-
-✅ NAT traversal and relay capabilities (Circuit Relay)
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-✅ Transport-agnostic connections (TCP, QUIC, WebSocket)
-
-</td>
-<td align="center">
-
-✅ Pub/sub messaging via GossipSub protocol
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-✅ Efficient binary serialization (CBOR)
-
-</td>
-<td align="center">
-
-✅ Custom RPC protocol on `/serviceName/v1` paths
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-  <h2>Technology Stack</h2>
-</div>
-
-<br/>
-
-<div align="center">
+## Technology Stack
 
 ### Core Technologies
 
-</div>
-
-<table>
-<thead>
-<tr>
-<th>Component</th>
-<th>Technology</th>
-<th>Version</th>
-<th>Purpose</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Language</strong></td>
-<td><a href="https://go.dev/">Go</a></td>
-<td>1.25+</td>
-<td>Platform services (pure Go, no CGO)</td>
-</tr>
-<tr>
-<td><strong>Networking</strong></td>
-<td><a href="https://libp2p.io/">libp2p</a></td>
-<td>0.42+</td>
-<td>P2P networking (DHT, GossipSub, Relay)</td>
-</tr>
-<tr>
-<td><strong>Runtime</strong></td>
-<td><a href="https://wazero.io/">wazero</a></td>
-<td>1.9+</td>
-<td>WebAssembly JIT compilation</td>
-</tr>
-<tr>
-<td><strong>Storage</strong></td>
-<td><a href="https://github.com/hsanjuan/ipfs-lite">IPFS Lite</a></td>
-<td>Latest</td>
-<td>Content-addressed storage (Bitswap)</td>
-</tr>
-<tr>
-<td><strong>Database</strong></td>
-<td><a href="https://github.com/cockroachdb/pebble">Pebble</a></td>
-<td>2.x</td>
-<td>LSM-tree embedded KV store</td>
-</tr>
-<tr>
-<td><strong>Replication</strong></td>
-<td><a href="https://github.com/ipfs/go-ds-crdt">go-ds-crdt</a></td>
-<td>Latest</td>
-<td>CRDT-based conflict-free synchronization</td>
-</tr>
-<tr>
-<td><strong>Containers</strong></td>
-<td>Docker</td>
-<td>Latest</td>
-<td>Isolated build environments</td>
-</tr>
-<tr>
-<td><strong>TLS</strong></td>
-<td>ACME / Let's Encrypt</td>
-<td>Latest</td>
-<td>Automatic certificate provisioning</td>
-</tr>
-</tbody>
-</table>
-
-<br/>
-
 <div align="center">
+
+| Component       | Technology                                         | Version | Purpose                                  |
+| --------------- | -------------------------------------------------- | ------- | ---------------------------------------- |
+| **Language**    | [Go](https://go.dev/)                              | 1.25+   | Platform services (pure Go, no CGO)      |
+| **Networking**  | [libp2p](https://libp2p.io/)                       | 0.42+   | P2P networking (DHT, GossipSub, Relay)   |
+| **Runtime**     | [wazero](https://wazero.io/)                       | 1.9+    | WebAssembly JIT compilation              |
+| **Storage**     | [IPFS Lite](https://github.com/hsanjuan/ipfs-lite) | Latest  | Content-addressed storage (Bitswap)      |
+| **Database**    | [Pebble](https://github.com/cockroachdb/pebble)    | 2.x     | LSM-tree embedded KV store               |
+| **Replication** | [go-ds-crdt](https://github.com/ipfs/go-ds-crdt)   | Latest  | CRDT-based conflict-free synchronization |
+| **Containers**  | Docker                                             | Latest  | Isolated build environments              |
+| **TLS**         | ACME / Let's Encrypt                               | Latest  | Automatic certificate provisioning       |
+
+</div>
 
 ### Supported Languages
 
+<div align="center">
+
+| Language       | Compiler | Target      |
+| -------------- | -------- | ----------- |
+| Go             | TinyGo   | WebAssembly |
+| Rust           | rustc    | WebAssembly |
+| AssemblyScript | asc      | WebAssembly |
+
 </div>
 
-<table align="center">
-<thead>
-<tr>
-<th>Language</th>
-<th>Compiler</th>
-<th>Target</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Go</td>
-<td>TinyGo</td>
-<td>WebAssembly</td>
-</tr>
-<tr>
-<td>Rust</td>
-<td>rustc</td>
-<td>WebAssembly</td>
-</tr>
-<tr>
-<td>AssemblyScript</td>
-<td>asc</td>
-<td>WebAssembly</td>
-</tr>
-</tbody>
-</table>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-  <h2>Learning Resources</h2>
-</div>
-
-<br/>
-
-<div align="center">
+## Learning Resources
 
 ### Official Documentation
 
-</div>
-
-<table>
-<thead>
-<tr>
-<th>Resource</th>
-<th>Description</th>
-<th>Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Documentation</strong></td>
-<td>Complete guides, API reference, tutorials</td>
-<td><a href="https://tau.how">tau.how</a></td>
-</tr>
-<tr>
-<td><strong>Quick Start</strong></td>
-<td>Step-by-step deployment guide</td>
-<td><a href="https://taubyte.com/blog/be-competitive-in-few-minutes/">Deploy Guide</a></td>
-</tr>
-<tr>
-<td><strong>Architecture</strong></td>
-<td>Deep dive into platform design</td>
-<td><a href="https://taubyte.com/blog/introduction-to-taubyte/">Introduction</a></td>
-</tr>
-</tbody>
-</table>
-
-<br/>
-
 <div align="center">
+
+| Resource          | Description                               | Link                                                                    |
+| ----------------- | ----------------------------------------- | ----------------------------------------------------------------------- |
+| **Documentation** | Complete guides, API reference, tutorials | [tau.how](https://tau.how)                                              |
+| **Quick Start**   | Step-by-step deployment guide             | [Deploy Guide](https://taubyte.com/blog/be-competitive-in-few-minutes/) |
+| **Architecture**  | Deep dive into platform design            | [Introduction](https://taubyte.com/blog/introduction-to-taubyte/)       |
+
+</div>
 
 ### Community & Support
 
-</div>
-
-<table>
-<thead>
-<tr>
-<th>Platform</th>
-<th>Purpose</th>
-<th>Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Discord</strong></td>
-<td>Real-time chat, community support</td>
-<td><a href="https://discord.gg/KbN3KN7kpQ">Join Discord</a></td>
-</tr>
-<tr>
-<td><strong>YouTube</strong></td>
-<td>Video tutorials, demos, walkthroughs</td>
-<td><a href="https://youtube.com/@taubyte">Taubyte Channel</a></td>
-</tr>
-<tr>
-<td><strong>GitHub Discussions</strong></td>
-<td>Q&A, feature requests, ideas</td>
-<td><a href="https://github.com/taubyte/tau/discussions">Discussions</a></td>
-</tr>
-<tr>
-<td><strong>GitHub Issues</strong></td>
-<td>Bug reports, issue tracking</td>
-<td><a href="https://github.com/taubyte/tau/issues">Issues</a></td>
-</tr>
-</tbody>
-</table>
-
-<br/>
-
 <div align="center">
+
+| Platform               | Purpose                              | Link                                                      |
+| ---------------------- | ------------------------------------ | --------------------------------------------------------- |
+| **Discord**            | Real-time chat, community support    | [Join Discord](https://discord.gg/KbN3KN7kpQ)             |
+| **YouTube**            | Video tutorials, demos, walkthroughs | [Taubyte Channel](https://youtube.com/@taubyte)           |
+| **GitHub Discussions** | Q&A, feature requests, ideas         | [Discussions](https://github.com/taubyte/tau/discussions) |
+| **GitHub Issues**      | Bug reports, issue tracking          | [Issues](https://github.com/taubyte/tau/issues)           |
+
+</div>
 
 ### Additional Resources
 
@@ -1080,114 +420,41 @@ All services communicate over **libp2p** streams with **CBOR-encoded** messages,
 - **[Example Projects](https://github.com/taubyte-test)** - Sample applications and templates
 - **[API Reference](https://tau.how/api)** - Complete API documentation
 
-</div>
+## Contributing
 
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-  <h2>Contributing</h2>
-</div>
-
-<br/>
-
-<p align="center">
 We welcome contributions from the community. To get started:
-</p>
 
-<br/>
+1. Fork the repository on GitHub
+2. Clone your fork: `git clone https://github.com/YOUR-USERNAME/tau`
+3. Build the project: `cd tau && go build`
+4. Test changes using Dream
+5. Submit a pull request with a clear description
 
-<div align="center">
-
-1. **Fork** the repository on GitHub
-2. **Clone** your fork: `git clone https://github.com/YOUR_USERNAME/tau`
-3. **Build** the project: `cd tau && go build`
-4. **Test** changes using Dream
-5. **Submit** a pull request with a clear description
-
-</div>
-
-<br/>
-
-<p align="center">
-See <a href="CONTRIBUTING.md">CONTRIBUTING.md</a> for detailed guidelines on code style, testing, and review process.
-</p>
-
-<br/>
+See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 ---
 
-<br/>
+## License
 
-<div align="center">
-  <h2>License</h2>
-  <p>Taubyte is open source software released under the <a href="LICENSE">BSD 3-Clause License</a>.</p>
-</div>
-
-<br/>
+Released under the [BSD 3-Clause License](LICENSE).
 
 ---
 
-<br/>
+## Built With
 
 <div align="center">
-  <h2>Built With</h2>
+
+| Technology                   | Purpose                      |
+| ---------------------------- | ---------------------------- |
+| [Go](https://go.dev/)        | Core platform implementation |
+| [libp2p](https://libp2p.io/) | Peer-to-peer networking      |
+| [wazero](https://wazero.io/) | WebAssembly runtime          |
+| [IPFS](https://ipfs.tech/)   | Content-addressed storage    |
+
 </div>
 
-<br/>
+## Get Started
 
-<table align="center">
-<thead>
-<tr>
-<th>Technology</th>
-<th>Purpose</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://go.dev/">Go</a></td>
-<td>Core platform implementation</td>
-</tr>
-<tr>
-<td><a href="https://libp2p.io/">libp2p</a></td>
-<td>Peer-to-peer networking</td>
-</tr>
-<tr>
-<td><a href="https://wazero.io/">wazero</a></td>
-<td>WebAssembly runtime</td>
-</tr>
-<tr>
-<td><a href="https://ipfs.tech/">IPFS</a></td>
-<td>Content-addressed storage</td>
-</tr>
-</tbody>
-</table>
-
-<br/>
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-  <h2>Ready to get started?</h2>
-  <br/>
-  <a href="#getting-started">
-    <img src="https://img.shields.io/badge/Download%20Dream%20Desktop-4A90E2?style=for-the-badge&logo=download&logoColor=white" alt="Download Dream Desktop">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://tau.how">
-    <img src="https://img.shields.io/badge/Read%20the%20Docs-00B4D8?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Read the Docs">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.gg/KbN3KN7kpQ">
-    <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord">
-  </a>
-</div>
-
-<br/>
-<br/>
+[![Download Dream Desktop](https://img.shields.io/badge/Download%20Dream%20Desktop-4A90E2?style=for-the-badge&logo=download&logoColor=white)](https://github.com/taubyte/dream/releases/latest)
+[![Read the Docs](https://img.shields.io/badge/Read%20the%20Docs-00B4D8?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://tau.how)
+[![Join Discord](https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KbN3KN7kpQ)
