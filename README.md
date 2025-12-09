@@ -67,13 +67,9 @@ Monitor your build status in the console, then once the build is complete, run a
   <img src="images/gifs/run function.gif" width="48%" style="margin: 10px;">
 </div>
 
-## Quick Install
+## Deployment
 
-```sh
-curl https://get.tau.link/tau | sh
-```
-
-For a complete step-by-step guide, refer to [Deploy tau](https://tau.how/01-getting-started/04-deploy-a-cloud/).
+Deploy Tau using Spore Drive. For complete deployment instructions and setup guides, visit the [Development Documentation](https://tau.how/development/).
 
 ## What is Tau?
 
