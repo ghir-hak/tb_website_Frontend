@@ -14,7 +14,7 @@
 Tau is an open-source, Git-native platform-as-a-service that empowers development teams to build, deploy, and scale applications with full infrastructure autonomy. Unlike traditional cloud providers, Tau runs entirely on your infrastructure while providing the same capabilities as Vercel, Netlify, Cloudflare, and other major platforms.
 
 <div align="center">
-  <img src="images/gifs/features.png" width="100%">
+  <img src="images/gifs/console.png" width="100%">
 </div>
 
 ## Quick Start Guide
