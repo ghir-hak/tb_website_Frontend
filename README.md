@@ -11,89 +11,88 @@
 
 <div align="center">
   <a href="https://discord.gg/KbN3KN7kpQ">
-    <img src="images/gifs/join our discord.png" alt="Join our Discord" width="32%" style="margin: 5px;">
+    <img src="images/gifs/join our discord.png" alt="Join our Discord" width="32%" style="border-radius: 15px; margin: 5px;">
   </a>
   <a href="https://taubyte.com/doc">
-    <img src="images/gifs/read the docs.png" alt="Read the Docs" width="32%" style="margin: 5px;">
+    <img src="images/gifs/read the docs.png" alt="Read the Docs" width="32%" style="border-radius: 15px; margin: 5px;">
   </a>
   <a href="https://www.youtube.com/playlist?list=PLLKNB3tJrL9Y4nl0JnBhU2wHS4iWldUfh">
-    <img src="images/gifs/watch youtube.png" alt="Watch Tutorials" width="32%" style="margin: 5px;">
+    <img src="images/gifs/watch youtube.png" alt="Watch Tutorials" width="32%" style="border-radius: 15px; margin: 5px;">
   </a>
 </div>
 
-## Getting Started
+## What is Tau?
 
-Get started quickly using Dream CLI or Dream Desktop to create and manage your projects locally.
+Tau is an open-source, Git-native platform-as-a-service that empowers development teams to build, deploy, and scale applications with full infrastructure autonomy. Unlike traditional cloud providers, Tau runs entirely on your infrastructure while providing the same capabilities as Vercel, Netlify, Cloudflare, and other major platforms.
 
-### Step 1: Choose Your Development Tool
+### Key Capabilities
 
-Start with either Dream CLI or Dream Desktop. Both tools allow you to run a local Tau cloud environment.
+- **Git-Native Architecture**: Define and manage infrastructure entirely through Git repositories, eliminating API dependencies
+- **Content-Addressed Storage**: Leverage IPFS-based storage for distributed, verifiable content delivery
+- **WebAssembly Runtime**: Execute portable, sandboxed serverless functions with WebAssembly
+- **Peer-to-Peer Networking**: Automatic service discovery and intelligent load balancing via libp2p
+- **Production Parity**: Develop and test locally with Dream tools that mirror production environments
 
-<div align="center">
-  <img src="images/gifs/dreamcli.gif" width="48%" style="margin: 10px;">
-  <img src="images/gifs/dream desktop.gif" width="48%" style="margin: 10px;">
-</div>
+## Quick Start Guide
 
-### Step 2: Connect to Console and Create a Project
+Get up and running with your first Tau application in minutes. This guide walks you through the complete workflow from local development to production deployment.
 
-Sign in to the Taubyte console and create a new project to get started with your first Tau application.
+### Step 1: Set Up Your Development Environment
 
-<div align="center">
-  <img src="images/gifs/console signin.gif" width="48%" style="margin: 10px;">
-  <img src="images/gifs/create project.gif" width="48%" style="margin: 10px;">
-</div>
-
-### Step 3: Create a Function and Push to Build
-
-Add a serverless function to your project, then push your changes using Dream Desktop to trigger a build. Your function will be compiled and prepared for deployment.
+Begin by selecting your preferred development interface: Dream CLI for terminal-based workflows or Dream Desktop for a visual interface. Both tools provision a local Tau environment that accurately replicates production infrastructure. Once configured, authenticate with the Taubyte console to access project management capabilities.
 
 <div align="center">
-  <img src="images/gifs/create function.gif" width="48%" style="margin: 10px;">
-  <img src="images/gifs/pushall.gif" width="48%" style="margin: 10px;">
+  <img src="images/gifs/dreamcli.gif" width="32%" style="border-radius: 15px; margin: 5px;">
+  <img src="images/gifs/dream desktop.gif" width="32%" style="border-radius: 15px; margin: 5px;">
+  <img src="images/gifs/console signin.gif" width="32%" style="border-radius: 15px; margin: 5px;">
 </div>
 
-### Step 4: Check Builds and Run Your Function
+### Step 2: Create and Build Your Application
 
-Monitor your build status in the console, then once the build is complete, run and test your function.
+Initialize a new project through the console interface and configure your first serverless function. Commit and push your changes to automatically trigger the build pipeline, which compiles your WebAssembly function and prepares it for deployment across the distributed network.
 
 <div align="center">
-  <img src="images/gifs/builds.gif" width="48%" style="margin: 10px;">
-  <img src="images/gifs/run function.gif" width="48%" style="margin: 10px;">
+  <img src="images/gifs/create project.gif" width="32%" style="border-radius: 15px; margin: 5px;">
+  <img src="images/gifs/create function.gif" width="32%" style="border-radius: 15px; margin: 5px;">
+  <img src="images/gifs/pushall.gif" width="32%" style="border-radius: 15px; margin: 5px;">
 </div>
 
-## Deployment
+### Step 3: Deploy and Run
 
-Deploy Tau using Spore Drive:
+Monitor build progress through the console's real-time dashboard. Upon successful compilation, execute and validate your function through integrated testing tools. For production infrastructure deployment across your own servers, utilize Spore Drive to orchestrate and manage Tau instances.
 
-**TypeScript:**
+<div align="center">
+  <img src="images/gifs/builds.gif" width="32%" style="border-radius: 15px; margin: 5px;">
+  <img src="images/gifs/run function.gif" width="32%" style="border-radius: 15px; margin: 5px;">
+  <img src="images/gifs/spore-drive.gif" width="32%" style="border-radius: 15px; margin: 5px;">
+</div>
+
+## Deploy to Production
+
+Deploy Tau across your infrastructure using Spore Drive, our deployment automation framework. Install the package to begin orchestrating your distributed platform.
 
 ```sh
 npm install @taubyte/spore-drive
 ```
 
-<div align="center">
-  <img src="images/gifs/spore-drive.gif" width="80%" style="margin: 20px 0;">
-</div>
+For comprehensive deployment documentation and configuration guides, refer to the [Development Documentation](https://tau.how/development/). Alternatively, use the [Spore Drive Boilerplate](https://github.com/taubyte/spore-drive-boilerplate) repository as a production-ready starting point for your deployment workflow.
 
-For complete deployment instructions, visit the [Development Documentation](https://tau.how/development/).
+## Learn & Build
 
-## What is Tau?
+### Getting Started
 
-Tau is an open-source Git-Native CDN PaaS that serves as an alternative to Vercel, Netlify, Cloudflare, Amazon Lambda with CloudFront, S3, ElastiCache & SQS, and more.
+- **[Hitchhiker's Guide to Taubyte](https://www.youtube.com/playlist?list=PLLKNB3tJrL9Y4nl0JnBhU2wHS4iWldUfh)** - Comprehensive video tutorial series covering core concepts and advanced topics
+- **[Complete Documentation](https://taubyte.com/doc)** - Full API reference, architecture guides, and best practices
 
-### Key Features
+### Example Projects
 
-- **Git-Native**: Infrastructure is defined in Git - no API calls needed
-- **Content-Addressed Storage**: Built on IPFS for efficient, verifiable content distribution
-- **WebAssembly Computing**: Portable, sandboxed serverless functions
-- **P2P Networking**: Automatic service discovery and load balancing using libp2p
-- **Local Development**: Dream tools let you develop locally with production-like environments
+- **[Pixel Drawing App](https://youtu.be/RIdwJQB3Tk0)** - Step-by-step tutorial for building an interactive canvas application
+- **[Tower Blocks Game](https://youtu.be/gMTYh-gQLgA)** - Complete walkthrough for creating a multiplayer game with real-time synchronization
 
-## Documentation
+### Deploy Your Platform
 
-- [Complete Documentation](https://taubyte.com/doc)
-- [Introduction to Taubyte](https://www.youtube.com/playlist?list=PLLKNB3tJrL9Y4nl0JnBhU2wHS4iWldUfh)
+- **[Spore Drive Boilerplate](https://github.com/taubyte/spore-drive-boilerplate)** - Production-ready deployment template for infrastructure automation
 
 ## Support
 
-Questions or need assistance? Join us on [Discord](https://discord.gg/KbN3KN7kpQ)!
+Questions or need assistance? Join our community on [Discord](https://discord.gg/KbN3KN7kpQ)!
