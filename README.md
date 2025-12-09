@@ -1,23 +1,20 @@
-
-
-<div align="center">
-  <img src="images/gifs/banner.png" width="100%" ">
-</div>
 <div align="center">
 
 [![Release](https://img.shields.io/github/release/taubyte/tau.svg?color=blue)](https://github.com/taubyte/tau/releases)
 [![License](https://img.shields.io/github/license/taubyte/tau?color=blue)](LICENSE)
 
 </div>
-## What is Tau?
-
-Tau is an open-source, Git-native platform-as-a-service that empowers development teams to build, deploy, and
-scale applications with full infrastructure autonomy. Unlike traditional cloud providers, Tau runs entirely on
-your infrastructure while providing the same capabilities as Vercel, Netlify, Cloudflare, and other major
-platforms.
 
 <div align="center">
-  <img src="images/gifs/features.png" width="100%" ">
+  <img src="images/gifs/banner.png" width="100%">
+</div>
+
+## What is Tau?
+
+Tau is an open-source, Git-native platform-as-a-service that empowers development teams to build, deploy, and scale applications with full infrastructure autonomy. Unlike traditional cloud providers, Tau runs entirely on your infrastructure while providing the same capabilities as Vercel, Netlify, Cloudflare, and other major platforms.
+
+<div align="center">
+  <img src="images/gifs/features.png" width="100%">
 </div>
 
 ## Quick Start Guide
