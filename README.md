@@ -9,10 +9,10 @@
   <a href="https://discord.gg/KbN3KN7kpQ">
     <img src="images/gifs/join our discord.png" alt="Join our Discord" width="32%" style="margin: 5px;">
   </a>
-  <a href="https://tau.how">
+  <a href="https://taubyte.com/doc">
     <img src="images/gifs/read the docs.png" alt="Read the Docs" width="32%" style="margin: 5px;">
   </a>
-  <a href="https://www.youtube.com/@taubyte">
+  <a href="https://www.youtube.com/playlist?list=PLLKNB3tJrL9Y4nl0JnBhU2wHS4iWldUfh">
     <img src="images/gifs/watch youtube.png" alt="Watch Tutorials" width="32%" style="margin: 5px;">
   </a>
 </div>
@@ -69,7 +69,16 @@ Monitor your build status in the console, then once the build is complete, run a
 
 ## Deployment
 
-Deploy Tau using Spore Drive. For complete deployment instructions and setup guides, visit the [Development Documentation](https://tau.how/development/).
+Deploy Tau using Spore Drive:
+
+**TypeScript:**
+
+```sh
+npm install @taubyte/spore-drive
+```
+
+
+For complete deployment instructions, visit the [Development Documentation](https://tau.how/development/).
 
 ## What is Tau?
 
@@ -85,9 +94,8 @@ Tau is an open-source Git-Native CDN PaaS that serves as an alternative to Verce
 
 ## Documentation
 
-- [Complete Documentation](https://tau.how)
-- [Introduction to Taubyte](https://taubyte.com/blog/introduction-to-taubyte/)
-- [Deployment Guide](https://taubyte.com/blog/be-competitive-in-few-minutes/)
+- [Complete Documentation](https://taubyte.com/doc)
+- [Introduction to Taubyte](https://www.youtube.com/playlist?list=PLLKNB3tJrL9Y4nl0JnBhU2wHS4iWldUfh)
 
 ## Support
 
