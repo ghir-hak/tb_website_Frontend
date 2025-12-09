@@ -14,7 +14,7 @@
 Tau is an open-source, Git-native platform-as-a-service that empowers development teams to build, deploy, and scale applications with full infrastructure autonomy. Unlike traditional cloud providers, Tau runs entirely on your infrastructure while providing the same capabilities as Vercel, Netlify, Cloudflare, and other major platforms.
 
 <div align="center">
-  <img src="images/gifs/console.gif" width="100%">
+  <img src="images/gifs/features.png" width="100%">
 </div>
 
 ## Quick Start Guide
@@ -26,9 +26,9 @@ Get up and running with your first Tau application in minutes. This guide walks 
 Begin by selecting your preferred development interface: Dream CLI for terminal-based workflows or Dream Desktop for a visual interface. Both tools provision a local Tau environment that accurately replicates production infrastructure. Once configured, authenticate with the Taubyte console to access project management capabilities.
 
 <div align="center">
-  <img src="images/gifs/dreamcli.gif" width="32%" style="border-radius: 15px; margin: 5px;">
-  <img src="images/gifs/dream desktop.gif" width="32%" style="border-radius: 15px; margin: 5px;">
-  <img src="images/gifs/console signin.gif" width="32%" style="border-radius: 15px; margin: 5px;">
+  <img src="images/gifs/dreamcli.gif" style="width: calc(33.33% - 10px); border-radius: 15px; margin: 0 5px;">
+  <img src="images/gifs/dream desktop.gif" style="width: calc(33.33% - 10px); border-radius: 15px; margin: 0 5px;">
+  <img src="images/gifs/console signin.gif" style="width: calc(33.33% - 10px); border-radius: 15px; margin: 0 5px;">
 </div>
 
 ### Step 2: Create and Build Your Application
@@ -36,9 +36,9 @@ Begin by selecting your preferred development interface: Dream CLI for terminal-
 Initialize a new project through the console interface and configure your first serverless function. Commit and push your changes to automatically trigger the build pipeline, which compiles your WebAssembly function and prepares it for deployment across the distributed network.
 
 <div align="center">
-  <img src="images/gifs/create project.gif" width="32%" style="border-radius: 15px; margin: 5px;">
-  <img src="images/gifs/create function.gif" width="32%" style="border-radius: 15px; margin: 5px;">
-  <img src="images/gifs/pushall.gif" width="32%" style="border-radius: 15px; margin: 5px;">
+  <img src="images/gifs/create project.gif" style="width: calc(33.33% - 10px); border-radius: 15px; margin: 0 5px;">
+  <img src="images/gifs/create function.gif" style="width: calc(33.33% - 10px); border-radius: 15px; margin: 0 5px;">
+  <img src="images/gifs/pushall.gif" style="width: calc(33.33% - 10px); border-radius: 15px; margin: 0 5px;">
 </div>
 
 ### Step 3: Deploy and Run
@@ -46,9 +46,9 @@ Initialize a new project through the console interface and configure your first 
 Monitor build progress through the console's real-time dashboard. Upon successful compilation, execute and validate your function through integrated testing tools. For production infrastructure deployment across your own servers, utilize Spore Drive to orchestrate and manage Tau instances.
 
 <div align="center">
-  <img src="images/gifs/builds.gif" width="32%" style="border-radius: 15px; margin: 5px;">
-  <img src="images/gifs/run function.gif" width="32%" style="border-radius: 15px; margin: 5px;">
-  <img src="images/gifs/spore-drive.gif" width="32%" style="border-radius: 15px; margin: 5px;">
+  <img src="images/gifs/builds.gif" style="width: calc(33.33% - 10px); border-radius: 15px; margin: 0 5px;">
+  <img src="images/gifs/run function.gif" style="width: calc(33.33% - 10px); border-radius: 15px; margin: 0 5px;">
+  <img src="images/gifs/spore-drive.gif" style="width: calc(33.33% - 10px); border-radius: 15px; margin: 0 5px;">
 </div>
 
 ## Deploy to Production
