@@ -1,37 +1,24 @@
+
+
+<div align="center">
+  <img src="images/gifs/banner.png" width="100%" ">
+</div>
 <div align="center">
 
 [![Release](https://img.shields.io/github/release/taubyte/tau.svg?color=blue)](https://github.com/taubyte/tau/releases)
 [![License](https://img.shields.io/github/license/taubyte/tau?color=blue)](LICENSE)
 
 </div>
-
-<div align="center">
-  <img src="images/gifs/banner.png" width="100%" style="border-radius: 20px; margin: 20px 0;">
-</div>
-
-<div align="center">
-  <a href="https://discord.gg/KbN3KN7kpQ">
-    <img src="images/gifs/join our discord.png" alt="Join our Discord" width="32%" style="border-radius: 15px; margin: 5px;">
-  </a>
-  <a href="https://taubyte.com/doc">
-    <img src="images/gifs/read the docs.png" alt="Read the Docs" width="32%" style="border-radius: 15px; margin: 5px;">
-  </a>
-  <a href="https://www.youtube.com/playlist?list=PLLKNB3tJrL9Y4nl0JnBhU2wHS4iWldUfh">
-    <img src="images/gifs/watch youtube.png" alt="Watch Tutorials" width="32%" style="border-radius: 15px; margin: 5px;">
-  </a>
-</div>
-
 ## What is Tau?
 
-Tau is an open-source, Git-native platform-as-a-service that empowers development teams to build, deploy, and scale applications with full infrastructure autonomy. Unlike traditional cloud providers, Tau runs entirely on your infrastructure while providing the same capabilities as Vercel, Netlify, Cloudflare, and other major platforms.
+Tau is an open-source, Git-native platform-as-a-service that empowers development teams to build, deploy, and
+scale applications with full infrastructure autonomy. Unlike traditional cloud providers, Tau runs entirely on
+your infrastructure while providing the same capabilities as Vercel, Netlify, Cloudflare, and other major
+platforms.
 
-### Key Capabilities
-
-- **Git-Native Architecture**: Define and manage infrastructure entirely through Git repositories, eliminating API dependencies
-- **Content-Addressed Storage**: Leverage IPFS-based storage for distributed, verifiable content delivery
-- **WebAssembly Runtime**: Execute portable, sandboxed serverless functions with WebAssembly
-- **Peer-to-Peer Networking**: Automatic service discovery and intelligent load balancing via libp2p
-- **Production Parity**: Develop and test locally with Dream tools that mirror production environments
+<div align="center">
+  <img src="images/gifs/features.png" width="100%" ">
+</div>
 
 ## Quick Start Guide
 
