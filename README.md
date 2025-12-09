@@ -6,6 +6,10 @@
 </div>
 
 <div align="center">
+  <img src="images/gifs/banner.png" width="100%" style="border-radius: 20px; margin: 20px 0;">
+</div>
+
+<div align="center">
   <a href="https://discord.gg/KbN3KN7kpQ">
     <img src="images/gifs/join our discord.png" alt="Join our Discord" width="32%" style="margin: 5px;">
   </a>
@@ -15,16 +19,6 @@
   <a href="https://www.youtube.com/playlist?list=PLLKNB3tJrL9Y4nl0JnBhU2wHS4iWldUfh">
     <img src="images/gifs/watch youtube.png" alt="Watch Tutorials" width="32%" style="margin: 5px;">
   </a>
-</div>
-
-<br/>
-
-<div align="center">
-
-</div>
-
-<div align="center">
-  <img src="images/gifs/banner.png" width="100%" style="border-radius: 20px; margin: 20px 0;">
 </div>
 
 ## Getting Started
@@ -77,6 +71,9 @@ Deploy Tau using Spore Drive:
 npm install @taubyte/spore-drive
 ```
 
+<div align="center">
+  <img src="images/gifs/spore-drive.gif" width="80%" style="margin: 20px 0;">
+</div>
 
 For complete deployment instructions, visit the [Development Documentation](https://tau.how/development/).
 
