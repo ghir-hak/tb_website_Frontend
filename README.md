@@ -11,11 +11,18 @@
 
 ## What is Tau?
 
-Tau is an open-source, Git-native platform-as-a-service that empowers development teams to build, deploy, and scale applications with full infrastructure autonomy. Unlike traditional cloud providers, Tau runs entirely on your infrastructure while providing the same capabilities as Vercel, Netlify, Cloudflare, and other major platforms.
+Tau is an open-source, Git-native platform-as-a-service that empowers development teams to build, deploy, and scale applications with full infrastructure autonomy. With built-in AI capabilities, Tau seamlessly integrates intelligent features into your development workflow. Unlike traditional cloud providers, Tau is fully self-hosted while providing the same capabilities as Vercel, Netlify, Cloudflare, and other major platforms—now enhanced with AI-powered development and deployment tools.
 
-<div align="center">
-  <img src="images/gifs/features.png" width="100%">
-</div>
+## Core Features
+
+| Feature                  | Description                                                                                                                                      |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Serverless Functions** | WebAssembly (WASM) runtime supporting Rust, Go, and AssemblyScript. Deploy edge-ready functions with instant cold starts and automatic scaling.  |
+| **Static Hosting**       | Deploy websites and single-page applications (SPAs) with automatic routing, custom domains, and edge distribution.                               |
+| **Databases**            | Key-value store with encryption, regex matching, local/global options, and configurable size limits. Built for high-performance data operations. |
+| **Storage**              | Object storage with versioning and public access controls, plus streaming storage with TTL support. IPFS-backed distributed storage.             |
+| **Messaging**            | Real-time pub/sub messaging via MQTT and WebSocket protocols. Enable real-time communication and event-driven architectures.                     |
+| **CI/CD Pipeline**       | Git-native workflow with automatic builds on commit/push. Compile and deploy WebAssembly functions seamlessly across your distributed network.   |
 
 ## Quick Start Guide
 
@@ -33,7 +40,7 @@ Begin by selecting your preferred development interface: Dream CLI for terminal-
 
 ### Step 2: Create and Build Your Application
 
-Initialize a new project through the console interface and configure your first serverless function. Commit and push your changes to automatically trigger the build pipeline, which compiles your WebAssembly function and prepares it for deployment across the distributed network.
+Initialize a new project through the console interface and configure your first serverless function. Leverage Tau's AI-assisted development tools to streamline your workflow. Commit and push your changes to automatically trigger the build pipeline, which compiles your WebAssembly function and prepares it for deployment across the distributed network.
 
 <div align="center">
   <img src="images/gifs/newproject.gif" width="32%" style="border-radius: 15px; margin: 5px;">
