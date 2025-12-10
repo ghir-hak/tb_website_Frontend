@@ -28,7 +28,7 @@ Begin by selecting your preferred development interface: Dream CLI for terminal-
 <div align="center">
   <img src="images/gifs/dreamcli.gif" width="32%" style="border-radius: 15px; margin: 5px;">
   <img src="images/gifs/dreamdesktop.gif" width="32%" style="border-radius: 15px; margin: 5px;">
-  <img src="images/gifs/console.gif" width="32%" style="border-radius: 15px; margin: 5px;">
+  <img src="images/gifs/connect.gif" width="32%" style="border-radius: 15px; margin: 5px;">
 </div>
 
 ### Step 2: Create and Build Your Application
