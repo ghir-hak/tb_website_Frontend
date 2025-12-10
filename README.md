@@ -25,7 +25,7 @@ Get up and running with your first Tau application in minutes. This guide walks 
 
 Begin by selecting your preferred development interface: Dream CLI for terminal-based workflows or Dream Desktop for a visual interface. Both tools provision a local Tau environment that accurately replicates production infrastructure. Once configured, authenticate with the Taubyte console to access project management capabilities.
 
-<div align="center" style="width: 100%; white-space: nowrap; font-size: 0;"><img src="images/gifs/dreamcli.gif" style="width: calc(33.33% - 6.67px); border-radius: 15px; margin: 0 5px; display: inline-block; vertical-align: top;"><img src="images/gifs/dreamdesktop.gif" style="width: calc(33.33% - 6.67px); border-radius: 15px; margin: 0 5px; display: inline-block; vertical-align: top;"></div>
+<div align="center" style="width: 100%; white-space: nowrap; font-size: 0;"><img src="images/gifs/dreamcli.gif" style="width: calc(33.33% - 6.67px); border-radius: 15px; margin: 0 5px; display: inline-block; vertical-align: top;"><img src="images/gifs/dreamdesktop.gif" style="width: calc(33.33% - 6.67px); border-radius: 15px; margin: 0 5px; display: inline-block; vertical-align: top;"><img src="images/gifs/console.gif" style="width: calc(33.33% - 6.67px); border-radius: 15px; margin: 0 5px; display: inline-block; vertical-align: top;"></div>
 
 ### Step 2: Create and Build Your Application
 
