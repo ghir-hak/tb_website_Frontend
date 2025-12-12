@@ -54,23 +54,21 @@ Monitor build progress through the console's real-time dashboard. Upon successfu
 A fast paced video series to get you from 0 to hero in ono time.
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=8FO1KiTE0FE"><img src="images/gifs/vid1.png" width="32%" style="border-radius: 15px; margin: 5px;"></a>
-  <a href="https://www.youtube.com/watch?v=ajdcUGd2SeE"><img src="images/gifs/vid2.png" width="32%" style="border-radius: 15px; margin: 5px;"></a>
-  <a href="https://www.youtube.com/watch?v=YyZHCBkjCOU"><img src="images/gifs/vid3.png" width="32%" style="border-radius: 15px; margin: 5px;"></a>
+  <a href="https://www.youtube.com/watch?v=8FO1KiTE0FE"><img src="images/gifs/vid1.png" width="32%"></a>
+  <a href="https://www.youtube.com/watch?v=ajdcUGd2SeE"><img src="images/gifs/vid2.png" width="32%"></a>
+  <a href="https://www.youtube.com/watch?v=YyZHCBkjCOU"><img src="images/gifs/vid3.png" width="32%"></a>
 </div>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=IDUI7a96gSw&t=10s"><img src="images/gifs/vid4.png" width="48%" style="border-radius: 15px; margin: 5px;"></a>
-  <a href="https://www.youtube.com/playlist?list=PLLKNB3tJrL9Y4nl0JnBhU2wHS4iWldUfh"><img src="images/gifs/playlist.png" width="48%" style="border-radius: 15px; margin: 5px;"></a>
+  <a href="https://www.youtube.com/watch?v=IDUI7a96gSw&t=10s"><img src="images/gifs/vid4.png" width="32%"></a>
+  <a href="https://www.youtube.com/playlist?list=PLLKNB3tJrL9Y4nl0JnBhU2wHS4iWldUfh"><img src="images/gifs/playlist.png" width="64.5%"></a>
 </div>
 
 ## Support
 
 Questions or need assistance? Join our community on [Discord](https://discord.gg/KbN3KN7kpQ)!
 
-<div align="center">
-  <a href="https://taubyte.com/doc"><img src="images/gifs/how.png" width="50%" style="border-radius: 15px; margin: 5px;"></a>
-</div>
+
 
 ## Core Features
 
