@@ -96,5 +96,5 @@ Step-by-step tutorials for building interactive applications and multiplayer gam
 Questions or need assistance? Join our community on [Discord](https://discord.gg/KbN3KN7kpQ)!
 
 <div align="center">
-  <a href="https://taubyte.com/doc"><img src="images/gifs/how.png" width="100%" style="border-radius: 15px; margin: 5px;"></a>
+  <a href="https://taubyte.com/doc"><img src="images/gifs/how.png" width="50%" style="border-radius: 15px; margin: 5px;"></a>
 </div>
