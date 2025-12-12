@@ -9,20 +9,9 @@
   <img src="images/gifs/banner.png" width="100%">
 </div>
 
-## What is Tau?
+## Full Stack
 
 Tau is an open-source, Git-native platform-as-a-service that empowers development teams to build, deploy, and scale applications with full infrastructure autonomy. With built-in AI capabilities, Tau seamlessly integrates intelligent features into your development workflow. Unlike traditional cloud providers, Tau is fully self-hosted while providing the same capabilities as Vercel, Netlify, Cloudflare, and other major platforms—now enhanced with AI-powered development and deployment tools.
-
-## Core Features
-
-| Feature                  | Description                                                                                                                                      |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Serverless Functions** | WebAssembly (WASM) runtime supporting Rust, Go, and AssemblyScript. Deploy edge-ready functions with instant cold starts and automatic scaling.  |
-| **Static Hosting**       | Deploy websites and single-page applications (SPAs) with automatic routing, custom domains, and edge distribution.                               |
-| **Databases**            | Key-value store with encryption, regex matching, local/global options, and configurable size limits. Built for high-performance data operations. |
-| **Storage**              | Object storage with versioning and public access controls, plus streaming storage with TTL support. IPFS-backed distributed storage.             |
-| **Messaging**            | Real-time pub/sub messaging via MQTT and WebSocket protocols. Enable real-time communication and event-driven architectures.                     |
-| **CI/CD Pipeline**       | Git-native workflow with automatic builds on commit/push. Compile and deploy WebAssembly functions seamlessly across your distributed network.   |
 
 ## Quick Start Guide
 
@@ -58,6 +47,17 @@ Monitor build progress through the console's real-time dashboard. Upon successfu
   <img src="images/gifs/spore-drive.gif" width="32%" style="border-radius: 15px; margin: 5px;">
 </div>
 
+## Core Features
+
+| Feature                  | Description                                                                                                                                      |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Serverless Functions** | WebAssembly (WASM) runtime supporting Rust, Go, and AssemblyScript. Deploy edge-ready functions with instant cold starts and automatic scaling.  |
+| **Static Hosting**       | Deploy websites and single-page applications (SPAs) with automatic routing, custom domains, and edge distribution.                               |
+| **Databases**            | Key-value store with encryption, regex matching, local/global options, and configurable size limits. Built for high-performance data operations. |
+| **Storage**              | Object storage with versioning and public access controls, plus streaming storage with TTL support. IPFS-backed distributed storage.             |
+| **Messaging**            | Real-time pub/sub messaging via MQTT and WebSocket protocols. Enable real-time communication and event-driven architectures.                     |
+| **CI/CD Pipeline**       | Git-native workflow with automatic builds on commit/push. Compile and deploy WebAssembly functions seamlessly across your distributed network.   |
+
 ## Deploy to Production
 
 Deploy Tau across your infrastructure using Spore Drive, our deployment automation framework. Install the package to begin orchestrating your distributed platform.
@@ -72,13 +72,13 @@ For comprehensive deployment documentation and configuration guides, refer to th
 
 ### Getting Started
 
-- **[Hitchhiker's Guide to Taubyte](https://www.youtube.com/playlist?list=PLLKNB3tJrL9Y4nl0JnBhU2wHS4iWldUfh)** - Comprehensive video tutorial series covering core concepts and advanced topics
-- **[Complete Documentation](https://taubyte.com/doc)** - Full API reference, architecture guides, and best practices
+- <a href="https://www.youtube.com/playlist?list=PLLKNB3tJrL9Y4nl0JnBhU2wHS4iWldUfh"><img src="images/video-link.png" alt="Hitchhiker's Guide to Taubyte" /></a> - Comprehensive video tutorial series covering core concepts and advanced topics
+- <a href="https://taubyte.com/doc"><img src="images/gifs/tau.how.png" alt="Complete Documentation" /></a> - Full API reference, architecture guides, and best practices
 
 ### Example Projects
 
-- **[Pixel Drawing App](https://youtu.be/RIdwJQB3Tk0)** - Step-by-step tutorial for building an interactive canvas application
-- **[Tower Blocks Game](https://youtu.be/gMTYh-gQLgA)** - Complete walkthrough for creating a multiplayer game with real-time synchronization
+- <a href="https://youtu.be/RIdwJQB3Tk0"><img src="images/gifs/pexel.jpg" alt="Pixel Drawing App" /></a> - Step-by-step tutorial for building an interactive canvas application
+- <a href="https://youtu.be/gMTYh-gQLgA"><img src="images/gifs/towerblocks.jpg" alt="Tower Blocks Game" /></a> - Complete walkthrough for creating a multiplayer game with real-time synchronization
 
 ### Deploy Your Platform
 
