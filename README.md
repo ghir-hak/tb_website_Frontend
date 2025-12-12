@@ -8,7 +8,6 @@
 <div align="center">
   <img src="images/gifs/banner.png" width="100%">
 </div>
-</br>
 
 <div align="center">
   <a href="https://taubyte.com/doc"><img src="images/gifs/documentation.png" width="32%"></a>
@@ -19,36 +18,28 @@
 
 Tau is an open-source, Git-native platform-as-a-service that empowers development teams to build, deploy, and scale applications with full infrastructure autonomy. With built-in AI capabilities, Tau seamlessly integrates intelligent features into your development workflow. Unlike traditional cloud providers, Tau is fully self-hosted while providing the same capabilities as Vercel, Netlify, Cloudflare, and other major platforms—now enhanced with AI-powered development and deployment tools.
 
-
-
-### Development Environment
-
-Dream CLI for terminal-based workflows or Dream Desktop for a visual interface. Connect to your cloud using the console .
-
 <div align="center">
-  <img src="images/gifs/dreamcli.gif" width="32%" style="border-radius: 15px; margin: 5px;">
-  <img src="images/gifs/dreamdesktop.gif" width="32%" style="border-radius: 15px; margin: 5px;">
-  <img src="images/gifs/connect.gif" width="32%" style="border-radius: 15px; margin: 5px;">
+
+| Development Environment                                                                                                                                                                                                                        |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <div align="center"><img src="images/gifs/dreamcli.gif" width="32%" ><img src="images/gifs/5px.png"><img src="images/gifs/dreamdesktop.gif" width="32%" ><img src="images/gifs/5px.png"><img src="images/gifs/connect.gif" width="32%" ></div> |
+
 </div>
 
-### Build Your Application
-
-Initialize a new project through the console interface and configure your first serverless function. Leverage Tau's AI-assisted development tools to streamline your workflow. Commit and push your changes to automatically trigger the build pipeline, which compiles your WebAssembly function and prepares it for deployment across the distributed network.
-
 <div align="center">
-  <img src="images/gifs/newproject.gif" width="32%" style="border-radius: 15px; margin: 5px;">
-  <img src="images/gifs/newfunction.gif" width="32%" style="border-radius: 15px; margin: 5px;">
-  <img src="images/gifs/pushall.gif" width="32%" style="border-radius: 15px; margin: 5px;">
+
+| Build Your Application                                                                                                                                                                                                                          |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <div align="center"><img src="images/gifs/newproject.gif" width="32%" ><img src="images/gifs/5px.png"><img src="images/gifs/newfunction.gif" width="32%" ><img src="images/gifs/5px.png"><img src="images/gifs/pushall.gif" width="32%" ></div> |
+
 </div>
 
-### Deploy and Run
-
-Monitor build progress through the console's real-time dashboard. Upon successful compilation, execute and validate your function through integrated testing tools. For production infrastructure deployment across your own servers, utilize Spore Drive to orchestrate and manage Tau instances.
-
 <div align="center">
-  <img src="images/gifs/builds.gif" width="32%" style="border-radius: 15px; margin: 5px;">
-  <img src="images/gifs/runfunction.gif" width="32%" style="border-radius: 15px; margin: 5px;">
-  <img src="images/gifs/spore-drive.gif" width="32%" style="border-radius: 15px; margin: 5px;">
+
+| Deploy and Run                                                                                                                                                                                                                                  |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <div align="center"><img src="images/gifs/builds.gif" width="32%" ><img src="images/gifs/5px.png"><img src="images/gifs/runfunction.gif" width="32%" ><img src="images/gifs/5px.png"><img src="images/gifs/spore-drive.gif" width="32%" ></div> |
+
 </div>
 
 ### Example Projects
