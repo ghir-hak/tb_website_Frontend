@@ -65,15 +65,8 @@ A fast paced video series to get you from 0 to hero in ono time.
   <a href="https://www.youtube.com/watch?v=IDUI7a96gSw&t=10s"><img src="images/gifs/vid6.png" width="32%"></a>
 </div>
 
-## Support
 
-Questions or need assistance? Join our community on [Discord](https://discord.gg/KbN3KN7kpQ)!
-
-<div align="center">
-  <a href="https://taubyte.com/doc"><img src="images/gifs/how.png" width="50%" style="border-radius: 15px; margin: 5px;"></a>
-</div>
-
-## Core Features
+### Core Features
 
 | Feature                  | Description                                                                                                                                      |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
