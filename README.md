@@ -72,13 +72,21 @@ For comprehensive deployment documentation and configuration guides, refer to th
 
 ### Getting Started
 
-- <a href="https://www.youtube.com/playlist?list=PLLKNB3tJrL9Y4nl0JnBhU2wHS4iWldUfh"><img src="images/video-link.png" alt="Hitchhiker's Guide to Taubyte" /></a> - Comprehensive video tutorial series covering core concepts and advanced topics
-- <a href="https://taubyte.com/doc"><img src="images/gifs/tau.how.png" alt="Complete Documentation" /></a> - Full API reference, architecture guides, and best practices
+Comprehensive video tutorial series covering core concepts and advanced topics. Full API reference, architecture guides, and best practices.
+
+<div align="center">
+  <a href="https://www.youtube.com/playlist?list=PLLKNB3tJrL9Y4nl0JnBhU2wHS4iWldUfh"><img src="images/gifs/guide.png" width="65%" style="border-radius: 15px; margin: 5px;"></a>
+  <a href="https://taubyte.com/doc"><img src="images/gifs/how.png" width="32%" style="border-radius: 15px; margin: 5px;"></a>
+</div>
 
 ### Example Projects
 
-- <a href="https://youtu.be/RIdwJQB3Tk0"><img src="images/gifs/pexel.jpg" alt="Pixel Drawing App" /></a> - Step-by-step tutorial for building an interactive canvas application
-- <a href="https://youtu.be/gMTYh-gQLgA"><img src="images/gifs/towerblocks.jpg" alt="Tower Blocks Game" /></a> - Complete walkthrough for creating a multiplayer game with real-time synchronization
+Step-by-step tutorials for building interactive applications and multiplayer games with real-time synchronization.
+
+<div align="center">
+  <a href="https://youtu.be/RIdwJQB3Tk0"><img src="images/gifs/pixel.png" width="48%" style="border-radius: 15px; margin: 5px;"></a>
+  <a href="https://youtu.be/gMTYh-gQLgA"><img src="images/gifs/tower.png" width="48%" style="border-radius: 15px; margin: 5px;"></a>
+</div>
 
 ### Deploy Your Platform
 
