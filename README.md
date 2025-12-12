@@ -9,15 +9,11 @@
   <img src="images/gifs/banner.png" width="100%">
 </div>
 
-## Full Stack
 
 Tau is an open-source, Git-native platform-as-a-service that empowers development teams to build, deploy, and scale applications with full infrastructure autonomy. With built-in AI capabilities, Tau seamlessly integrates intelligent features into your development workflow. Unlike traditional cloud providers, Tau is fully self-hosted while providing the same capabilities as Vercel, Netlify, Cloudflare, and other major platforms—now enhanced with AI-powered development and deployment tools.
 
-## Quick Start Guide
 
-Get up and running with your first Tau application in minutes. This guide walks you through the complete workflow from local development to production deployment.
-
-### Step 1: Set Up Your Development Environment
+### Set Up Your Development Environment
 
 Begin by selecting your preferred development interface: Dream CLI for terminal-based workflows or Dream Desktop for a visual interface. Both tools provision a local Tau environment that accurately replicates production infrastructure. Once configured, authenticate with the Taubyte console to access project management capabilities.
 
@@ -27,7 +23,7 @@ Begin by selecting your preferred development interface: Dream CLI for terminal-
   <img src="images/gifs/connect.gif" width="32%" style="border-radius: 15px; margin: 5px;">
 </div>
 
-### Step 2: Create and Build Your Application
+### Create and Build Your Application
 
 Initialize a new project through the console interface and configure your first serverless function. Leverage Tau's AI-assisted development tools to streamline your workflow. Commit and push your changes to automatically trigger the build pipeline, which compiles your WebAssembly function and prepares it for deployment across the distributed network.
 
@@ -37,7 +33,7 @@ Initialize a new project through the console interface and configure your first 
   <img src="images/gifs/pushall.gif" width="32%" style="border-radius: 15px; margin: 5px;">
 </div>
 
-### Step 3: Deploy and Run
+### Deploy and Run
 
 Monitor build progress through the console's real-time dashboard. Upon successful compilation, execute and validate your function through integrated testing tools. For production infrastructure deployment across your own servers, utilize Spore Drive to orchestrate and manage Tau instances.
 
