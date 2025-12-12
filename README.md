@@ -12,6 +12,12 @@
 
 Tau is an open-source, Git-native platform-as-a-service that empowers development teams to build, deploy, and scale applications with full infrastructure autonomy. With built-in AI capabilities, Tau seamlessly integrates intelligent features into your development workflow. Unlike traditional cloud providers, Tau is fully self-hosted while providing the same capabilities as Vercel, Netlify, Cloudflare, and other major platforms—now enhanced with AI-powered development and deployment tools.
 
+<div align="center">
+  <a href="https://taubyte.com/doc"><img src="images/gifs/documentation.png" width="32%"></a>
+  <a href="https://discord.gg/KbN3KN7kpQ"><img src="images/gifs/discord.png" width="32%"></a>
+  <a href="#"><img src="images/gifs/demo.png" width="32%"></a>
+</div>
+
 ### Development Environment
 
 Dream CLI for terminal-based workflows or Dream Desktop for a visual interface. Connect to your cloud using the console .
@@ -61,14 +67,16 @@ A fast paced video series to get you from 0 to hero in ono time.
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=IDUI7a96gSw&t=10s"><img src="images/gifs/vid4.png" width="32%"></a>
-  <a href="https://www.youtube.com/playlist?list=PLLKNB3tJrL9Y4nl0JnBhU2wHS4iWldUfh"><img src="images/gifs/playlist.png" width="64.5%"></a>
+  <a href="https://www.youtube.com/playlist?list=PLLKNB3tJrL9Y4nl0JnBhU2wHS4iWldUfh"><img src="images/gifs/playlist.png" width="64%"></a>
 </div>
 
 ## Support
 
 Questions or need assistance? Join our community on [Discord](https://discord.gg/KbN3KN7kpQ)!
 
-
+<div align="center">
+  <a href="https://taubyte.com/doc"><img src="images/gifs/how.png" width="50%" style="border-radius: 15px; margin: 5px;"></a>
+</div>
 
 ## Core Features
 
