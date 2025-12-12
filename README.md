@@ -61,7 +61,8 @@ A fast paced video series to get you from 0 to hero in ono time.
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=IDUI7a96gSw&t=10s"><img src="images/gifs/vid4.png" width="32%"></a>
-  <a href="https://www.youtube.com/playlist?list=PLLKNB3tJrL9Y4nl0JnBhU2wHS4iWldUfh"><img src="images/gifs/playlist.png" width="64%"></a>
+  <a href="https://www.youtube.com/watch?v=IDUI7a96gSw&t=10s"><img src="images/gifs/vid5.png" width="32%"></a>
+  <a href="https://www.youtube.com/watch?v=IDUI7a96gSw&t=10s"><img src="images/gifs/vid6.png" width="32%"></a>
 </div>
 
 ## Support
