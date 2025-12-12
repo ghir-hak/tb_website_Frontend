@@ -10,13 +10,16 @@
 </div>
 </br>
 
-Tau is an open-source, Git-native platform-as-a-service that empowers development teams to build, deploy, and scale applications with full infrastructure autonomy. With built-in AI capabilities, Tau seamlessly integrates intelligent features into your development workflow. Unlike traditional cloud providers, Tau is fully self-hosted while providing the same capabilities as Vercel, Netlify, Cloudflare, and other major platforms—now enhanced with AI-powered development and deployment tools.
-
 <div align="center">
   <a href="https://taubyte.com/doc"><img src="images/gifs/documentation.png" width="32%"></a>
   <a href="https://discord.gg/KbN3KN7kpQ"><img src="images/gifs/discord.png" width="32%"></a>
-  <a href="#"><img src="images/gifs/demo.png" width="32%"></a>
+  <a href="https://taubyte.com/book-a-demo"><img src="images/gifs/demo.png" width="32%"></a>
 </div>
+</br>
+
+Tau is an open-source, Git-native platform-as-a-service that empowers development teams to build, deploy, and scale applications with full infrastructure autonomy. With built-in AI capabilities, Tau seamlessly integrates intelligent features into your development workflow. Unlike traditional cloud providers, Tau is fully self-hosted while providing the same capabilities as Vercel, Netlify, Cloudflare, and other major platforms—now enhanced with AI-powered development and deployment tools.
+
+
 
 ### Development Environment
 
