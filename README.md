@@ -72,11 +72,10 @@ For comprehensive deployment documentation and configuration guides, refer to th
 
 ### Getting Started
 
-Comprehensive video tutorial series covering core concepts and advanced topics. Full API reference, architecture guides, and best practices.
+Comprehensive video tutorial series covering core concepts and advanced topics.
 
 <div align="center">
-  <a href="https://www.youtube.com/playlist?list=PLLKNB3tJrL9Y4nl0JnBhU2wHS4iWldUfh"><img src="images/gifs/guide.png" width="65%" style="border-radius: 15px; margin: 5px;"></a>
-  <a href="https://taubyte.com/doc"><img src="images/gifs/how.png" width="32%" style="border-radius: 15px; margin: 5px;"></a>
+  <a href="https://www.youtube.com/playlist?list=PLLKNB3tJrL9Y4nl0JnBhU2wHS4iWldUfh"><img src="images/gifs/guide.png" width="100%" style="border-radius: 15px; margin: 5px;"></a>
 </div>
 
 ### Example Projects
@@ -95,3 +94,7 @@ Step-by-step tutorials for building interactive applications and multiplayer gam
 ## Support
 
 Questions or need assistance? Join our community on [Discord](https://discord.gg/KbN3KN7kpQ)!
+
+<div align="center">
+  <a href="https://taubyte.com/doc"><img src="images/gifs/how.png" width="100%" style="border-radius: 15px; margin: 5px;"></a>
+</div>
