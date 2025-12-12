@@ -76,7 +76,6 @@ Comprehensive video tutorial series covering core concepts and advanced topics.
 
 ### Example Projects
 
-Step-by-step tutorials for building interactive applications and multiplayer games with real-time synchronization.
 
 <div align="center">
   <a href="https://youtu.be/RIdwJQB3Tk0"><img src="images/gifs/pixel.png" width="48%" style="border-radius: 15px; margin: 5px;"></a>
