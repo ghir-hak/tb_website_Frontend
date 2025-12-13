@@ -64,23 +64,20 @@ A fast paced video series to get you from 0 to hero in ono time.
   <a href="https://www.youtube.com/playlist?list=PLLKNB3tJrL9Y4nl0JnBhU2wHS4iWldUfh"><img src="images/gifs/vid6.png" width="32%"></a>
 </div>
 
-## Core Features
+### Core Features
 
-| Feature                              | Description                                                                                                                                                                              |
-| ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Serverless Functions**             | WebAssembly (WASM) runtime supporting Rust, Go, and AssemblyScript. Deploy edge-ready functions with instant cold starts and automatic scaling.                                          |
-| **Web Hosting**                      | Deploy websites and single-page applications (SPAs) with automatic routing, custom domains, and edge distribution.                                                                       |
-| **Databases**                        | Key-value store with encryption, regex matching, local/global options, and configurable size limits. Built for high-performance data operations.                                         |
-| **Storage**                          | Object storage with versioning and public access controls, plus streaming storage with TTL support. IPFS-backed distributed storage.                                                     |
-| **Messaging**                        | Real-time pub/sub messaging via MQTT and WebSocket protocols. Enable real-time communication and event-driven architectures.                                                             |
-| **CI/CD Pipeline**                   | Git-native workflow with automatic builds on commit/push. Compile and deploy WebAssembly functions seamlessly across your distributed network.                                           |
-| **Single Binary, Zero Dependencies** | One executable file, no external dependencies. Deploy anywhere—servers, edge nodes, or your laptop. Minimal configuration required.                                                      |
-| **Git-Native Infrastructure**        | All infrastructure defined in Git repositories. No API calls needed—just commit and deploy. Full version control and rollback capabilities. Branch-based environments out of the box.    |
-| **Local Equals Production**          | Develop and test locally with the exact same environment as production. Dream framework creates local cloud environments. No more "works on my machine" issues. True end-to-end testing. |
-| **Peer-to-Peer Architecture**        | Built on libp2p for automatic node discovery. Self-healing network topology. No single points of failure. Automatic load balancing.                                                      |
-| **WebAssembly Runtime**              | Portable, sandboxed function execution. Fast cold starts. Language-agnostic (compile to WASM). Secure by default.                                                                        |
-| **Auto-Discovery**                   | Automatic peer and service discovery. Self-configuring network. Dynamic routing and load balancing. Minimal manual configuration.                                                        |
-| **Cost-Effective**                   | Run on your own infrastructure. No per-request pricing. No vendor lock-in. Scale as you grow.                                                                                            |
-| **Auto TLS/SSL Certification**       | Automatic TLS/SSL certificate provisioning and renewal. Secure your applications with HTTPS out of the box. No manual certificate management required.                                   |
-| **Infrastructure as Code**           | Define and manage your entire infrastructure through code. Version control, review, and deploy infrastructure changes just like application code.                                        |
-| **Easy Deployment with Spore Drive** | Simple, automated deployment framework. Deploy Tau across your infrastructure with minimal configuration. Production-ready deployment templates available.                               |
+- [x] **Serverless Functions** - WebAssembly runtime supporting Rust, Go, and AssemblyScript with instant cold starts
+- [x] **Web Hosting** - Deploy websites and SPAs with automatic routing and custom domains
+- [x] **Databases** - Key-value store with encryption, regex matching, and configurable limits
+- [x] **Storage** - Object storage with versioning, IPFS-backed distributed storage
+- [x] **Messaging** - Real-time pub/sub via MQTT and WebSocket protocols
+- [x] **CI/CD Pipeline** - Git-native workflow with automatic builds on commit/push
+- [x] **Single Binary, Zero Dependencies** - One executable file, deploy anywhere
+- [x] **Git-Native Infrastructure** - All infrastructure defined in Git as code, no API calls needed
+- [x] **Local Equals Production** - Dream framework creates local cloud environments matching production
+- [x] **Peer-to-Peer Architecture** - Built on libp2p for automatic node discovery, self-healing networks, and dynamic routing
+- [x] **Cost-Effective** - Run on your own infrastructure, no per-request pricing
+- [x] **Auto TLS/SSL Certification** - Automatic certificate provisioning and renewal
+- [x] **Easy Deployment with Spore Drive** - Simple, automated deployment framework
+- [x] **Extending Tau** - Plugin system (orbit) for adding custom capabilities
+- [x] **E2E Testing** - Dream framework enables end-to-end testing of Tau projects
