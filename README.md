@@ -17,28 +17,36 @@
 
 Tau is an open-source, Git-native platform-as-a-service that empowers development teams to build, deploy, and scale applications with full infrastructure autonomy. With built-in AI capabilities, Tau seamlessly integrates intelligent features into your development workflow. Unlike traditional cloud providers, Tau is fully self-hosted while providing the same capabilities as Vercel, Netlify, Cloudflare, and other major platforms—now enhanced with AI-powered development and deployment tools.
 
+## Quick Start
+
+### Development Environment
+
 <div align="center">
-
-| Development Environment                                                                                                                                                                                                                        |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <div align="center"><img src="images/gifs/dreamcli.gif" width="32%" ><img src="images/gifs/5px.png"><img src="images/gifs/dreamdesktop.gif" width="32%" ><img src="images/gifs/5px.png"><img src="images/gifs/connect.gif" width="32%" ></div> |
-
+  <img src="images/gifs/dreamcli.gif" width="32%">
+  <img src="images/gifs/5px.png">
+  <img src="images/gifs/dreamdesktop.gif" width="32%">
+  <img src="images/gifs/5px.png">
+  <img src="images/gifs/connect.gif" width="32%">
 </div>
 
+### Build Your Application
+
 <div align="center">
-
-| Build Your Application                                                                                                                                                                                                                          |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <div align="center"><img src="images/gifs/newproject.gif" width="32%" ><img src="images/gifs/5px.png"><img src="images/gifs/newfunction.gif" width="32%" ><img src="images/gifs/5px.png"><img src="images/gifs/pushall.gif" width="32%" ></div> |
-
+  <img src="images/gifs/newproject.gif" width="32%">
+  <img src="images/gifs/5px.png">
+  <img src="images/gifs/newfunction.gif" width="32%">
+  <img src="images/gifs/5px.png">
+  <img src="images/gifs/pushall.gif" width="32%">
 </div>
 
+### Deploy and Run
+
 <div align="center">
-
-| Deploy and Run                                                                                                                                                                                                                                  |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <div align="center"><img src="images/gifs/builds.gif" width="32%" ><img src="images/gifs/5px.png"><img src="images/gifs/runfunction.gif" width="32%" ><img src="images/gifs/5px.png"><img src="images/gifs/spore-drive.gif" width="32%" ></div> |
-
+  <img src="images/gifs/builds.gif" width="32%">
+  <img src="images/gifs/5px.png">
+  <img src="images/gifs/runfunction.gif" width="32%">
+  <img src="images/gifs/5px.png">
+  <img src="images/gifs/spore-drive.gif" width="32%">
 </div>
 
 ### Example Projects
@@ -64,45 +72,9 @@ A fast paced video series to get you from 0 to hero in ono time.
   <a href="https://www.youtube.com/playlist?list=PLLKNB3tJrL9Y4nl0JnBhU2wHS4iWldUfh"><img src="images/gifs/vid6.png" width="32%"></a>
 </div>
 
-### Core Features
+## Features
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                         CURRENT ARCHITECTURE                            │
-└─────────────────────────────────────────────────────────────────────────┘
-
-    ┌──────────────────────────────────────────────────────────────────┐
-    │                    APPLICATION LAYER                             │
-    │  • Serverless Functions  • Web Hosting  • Databases              │
-    │  • Storage (IPFS)        • Messaging (MQTT)                      │
-    └───────────────────────────────┬──────────────────────────────────┘
-                                    │
-    ┌───────────────────────────────┴───────────────────────────────────┐
-    │                    DISTRIBUTED SERVICES                           │
-    ├───────────────────────────────┬───────────────────────────────────┤
-    │    DISTRIBUTED CORE           │      NETWORK LAYER                │
-    │  • Seer (DNS)                 │  • P2P (libp2p)                   │
-    │  • Gateway (Load Balancer)    │  • NAT Traversal                  │
-    │  • Hoarder (Replication)      │  • Circuit Relay                  │
-    │                               │  • Multi-Transport                │
-    └───────────────────────────────┴───────────────────────────────────┘
-                                    │
-    ┌───────────────────────────────▼───────────────────────────────────┐
-    │                    PLATFORM FOUNDATION                            │
-    │  • Single Binary, Zero Dependencies  • Auto TLS/SSL               │
-    │  • Minimal Configuration              • Orbit Plugin System       │
-    │  • WebAssembly Runtime                                            │
-    └───────────────────────────────────────────────────────────────────┘
-
-    ┌──────────────────────────────────────────────────────────────────┐
-    │                    DEVELOPER TOOLS                               │
-    │  • Git-Native Infrastructure  • Local = Production               │
-    │  • CI/CD Pipeline             • E2E Testing                      │
-    │  • Spore Drive                                                   │
-    └──────────────────────────────────────────────────────────────────┘
-```
-
-**Application Layer**
+### Application Layer
 
 - [x] **Serverless Functions** - WebAssembly runtime supporting Rust, Go, and AssemblyScript with instant cold starts
 - [x] **Web Hosting** - Deploy websites and SPAs with automatic routing and custom domains
@@ -110,7 +82,7 @@ A fast paced video series to get you from 0 to hero in ono time.
 - [x] **Storage** - Object storage with versioning, IPFS-backed content-addressed storage with deduplication
 - [x] **Messaging** - Real-time pub/sub via MQTT and WebSocket protocols
 
-**Developer Tools**
+### Developer Tools
 
 - [x] **Git-Native Infrastructure** - All infrastructure defined in Git as code, no API calls needed
 - [x] **Local Equals Production** - Dream framework creates local cloud environments matching production
@@ -118,19 +90,19 @@ A fast paced video series to get you from 0 to hero in ono time.
 - [x] **E2E Testing** - Dream framework enables end-to-end testing of Tau projects
 - [x] **Easy Deployment** - Spore Drive provides simple, automated deployment framework
 
-**Distributed Core**
+### Distributed Core
 
 - [x] **Seer** - Distributed DNS service for automatic service discovery
 - [x] **Gateway** - Intelligent load balancing and request routing
 - [x] **Hoarder** - Automatic replication for databases and object storage
 
-**Network Layer**
+### Network Layer
 
 - [x] **Peer-to-Peer Networking** - Built on libp2p with automatic node discovery, self-healing networks, and dynamic routing
 - [x] **NAT Traversal & Circuit Relay** - Nodes behind firewalls can join the cloud
 - [x] **Transport Independent** - Support for TCP/IP, WebSocket, QUIC, and more
 
-**Platform Foundation**
+### Platform Foundation
 
 - [x] **Single Binary, Zero Dependencies** - One executable file, deploy anywhere
 - [x] **Auto TLS/SSL** - Automatic certificate provisioning and renewal
@@ -138,81 +110,62 @@ A fast paced video series to get you from 0 to hero in ono time.
 - [x] **Extensible Platform** - Orbit plugin system for adding custom capabilities
 - [x] **Portable Computing** - WebAssembly runtime enabling true portability and sandboxing
 
-## Features Timeline
+## Roadmap
 
-### Technical Achievements
+### Q1 2026
 
-- **Distributed Services Architecture** - Seer (DNS), Gateway (load balancing), Hoarder (replication)
-- **Advanced Networking** - NAT traversal, circuit relay, and transport-independent protocols (TCP/IP, WebSocket, QUIC)
-- **Content-Addressed Storage** - IPFS-backed distributed storage with automatic deduplication and parallel downloads
-- **Portable Computing** - WebAssembly runtime enabling true portability and sandboxing
+- **AI-Powered Code Generation** - Integrated AI assistant for generating functions, services, and infrastructure code
+- **Enhanced Edge Analytics** - Real-time analytics and insights for edge-deployed applications
+- **Improved Developer Experience** - Streamlined CLI workflows and enhanced debugging tools
+- **Extended Database Features** - Advanced query capabilities and additional database types
 
-### Coming Soon
+### Q2 2026
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                         UPCOMING FEATURES                               │
-└─────────────────────────────────────────────────────────────────────────┘
+- **Kubernetes Integration** - Native Kubernetes operator for seamless container orchestration
+- **Advanced AI Models** - Support for custom AI model deployment and fine-tuning
+- **Global CDN Enhancement** - Improved content delivery with intelligent caching strategies
+- **Enterprise Security Suite** - Advanced enterprise-grade security features and compliance tools
 
-    ┌──────────────────────────────────────────────────────────────────┐
-    │              COMPUTING ENHANCEMENTS                              │
-    │  • Container Support  • VM Support                               │
-    └──────────────────────────────────────────────────────────────────┘
+## Contributing
 
-    ┌──────────────────────────────────────────────────────────────────┐
-    │              APPLICATION ENHANCEMENTS                            │
-    │  • GraphQL Gateway  • Enhanced AI Integration                    │
-    └──────────────────────────────────────────────────────────────────┘
+We welcome contributions to Tau! Whether you're fixing bugs, adding features, improving documentation, or helping with community support, your contributions are valuable.
 
-    ┌──────────────────────────────────────────────────────────────────┐
-    │              CROSS-CUTTING ENHANCEMENTS                          │
-    │  • Advanced Monitoring & Observability                           │
-    │  • Zero-Trust Networking  • Advanced Encryption                  │
-    └──────────────────────────────────────────────────────────────────┘
+### How to Contribute
 
-    ┌──────────────────────────────────────────────────────────────────┐
-    │              DEPLOYMENT & WORKFLOW                               │
-    │  • Multi-Cloud Orchestration  • Real-time Collaboration          │
-    │  • Advanced CI/CD  • Edge Computing Enhancements                 │
-    └──────────────────────────────────────────────────────────────────┘
-```
+1. **Fork the repository** and create your branch from `main`
+2. **Make your changes** following the existing code style and conventions
+3. **Test your changes** to ensure they work as expected
+4. **Submit a pull request** with a clear description of your changes
 
-**Computing Layer**
+### Code of Conduct
 
-- **Container Support** - Native container runtime for computing workloads
-- **Virtual Machine Support** - VM-based computing with portability guarantees
+Please note that this project follows the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to cto@taubyte.com.
 
-**AI & Integration**
+### Getting Started
 
-- **Enhanced AI Integration** - Deeper AI capabilities built into the platform
-- **GraphQL Support** - Native GraphQL API gateway and schema management
+- Check out our [documentation](https://taubyte.com/doc) to learn more about Tau
+- Join our [Discord community](https://discord.gg/KbN3KN7kpQ) to discuss ideas and get help
+- Look for issues labeled `good first issue` if you're new to the project
 
-**Observability**
+## Licensing
 
-- **Advanced Monitoring & Observability** - Comprehensive metrics, tracing, and logging
+Copyright 2020 Taubyte
 
-**Security & Edge**
+This project is licensed under a BSD-style license. See the [LICENSE](LICENSE) file for full details.
 
-- **Enhanced Security Features** - Advanced encryption, zero-trust networking, and security policies
-- **Edge Computing Enhancements** - Improved edge deployment and data locality
+**Summary**: Redistribution and use in source and binary forms, with or without modification, are permitted provided that the copyright notice and conditions are met.
 
-**Orchestration & Workflow**
+## Let's Connect! 🚀
 
-- **Multi-Cloud Orchestration** - Deploy and manage across multiple cloud providers
-- **Real-time Collaboration** - Multi-developer workflows and live collaboration tools
-- **Advanced CI/CD Features** - Enhanced pipeline capabilities and deployment strategies
+Join our awesome community and stay in the loop:
 
----
+- 📸 **Instagram**: [@dtaubyte](https://instagram.com/dtaubyte) - Follow us for updates and behind-the-scenes content
+- 🐦 **X (Twitter)**: [@dtaubyte](https://x.com/dtaubyte) - Get the latest news and announcements
+- 🎥 **YouTube**: [Taubyte](https://youtube.com/@taubyte) - Watch tutorials, demos, and guides
+- 💬 **Discord**: [Join our community](https://discord.gg/KbN3KN7kpQ) - Chat with the team, get help, and share ideas
+- 📚 **Documentation**: [taubyte.com/doc](https://taubyte.com/doc) - Everything you need to know about Tau
 
-## Connect With Us
-
-- **Instagram**: [@dtaubyte](https://instagram.com/dtaubyte)
-- **X (Twitter)**: [@dtaubyte](https://x.com/dtaubyte)
-- **YouTube**: [Taubyte](https://youtube.com/@taubyte)
-- **Discord**: [Join our community](https://discord.gg/KbN3KN7kpQ)
-- **Documentation**: [taubyte.com/doc](https://taubyte.com/doc)
-
----
+**Questions? Ideas? Just want to say hi?** We'd love to hear from you! Drop by our Discord or reach out on any of our social channels. 👋
 
 <div align="center">
   <p>Built with ❤️ by the Taubyte team</p>
