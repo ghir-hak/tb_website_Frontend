@@ -117,44 +117,32 @@ Fast-paced video series to get started with Tau.
 - [ ] **Advanced AI Models** - Custom AI model deployment and fine-tuning (Q2 2026)
 - [ ] **Enterprise Security Suite** - Enterprise-grade security features and compliance tools (Q2 2026)
 
-## Contributing
+##  Contributing
 
-Contributions welcome. Fix bugs, add features, improve documentation, or help with community support.
+Tau thrives with your help. Fix bugs, add features, improve docs, or guide the community.  
 
-### How to Contribute
+**How to contribute**  
+- Fork → branch from `main` → make changes → test → submit a PR  
+- Keep commits focused and describe **what** & **why** clearly  
+- New here? Look for `good first issue`  
 
-1. **Fork the repository** and create your branch from `main`
-2. **Make your changes** following the existing code style and conventions
-3. **Test your changes** to ensure they work as expected
-4. **Submit a pull request** with a clear description of your changes
 
-### Code of Conduct
+**Get started**  
+- 📖 Explore [documentation](https://taubyte.com/doc)  
+- 💬 Join [Discord](https://discord.gg/KbN3KN7kpQ) for support and discussions  
 
-This project follows the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). Report issues to cto@taubyte.com.
+##  License
 
-### Getting Started
+BSD-style license. See [LICENSE](LICENSE) for details.  
 
-- Check out our [documentation](https://taubyte.com/doc) to learn more about Tau
-- Join our [Discord community](https://discord.gg/KbN3KN7kpQ) to discuss ideas and get help
-- Look for issues labeled `good first issue` if you're new to the project
+## 🌍 Connect
 
-## Licensing
-
-Copyright 2020 Taubyte
-
-This project is licensed under a BSD-style license. See the [LICENSE](LICENSE) file for full details.
-
-Redistribution and use in source and binary forms, with or without modification, are permitted provided that the copyright notice and conditions are met.
-
-## Connect
-
-- 📸 **Instagram**: [@dtaubyte](https://instagram.com/dtaubyte)
-- 🐦 **X (Twitter)**: [@dtaubyte](https://x.com/dtaubyte)
-- 🎥 **YouTube**: [Taubyte](https://youtube.com/@taubyte)
-- 💬 **Discord**: [Join our community](https://discord.gg/KbN3KN7kpQ)
-- 📚 **Documentation**: [taubyte.com/doc](https://taubyte.com/doc)
+Follow, watch, and chat with us:  
+ X: [@dtaubyte](https://x.com/dtaubyte)  
+ Instagram: [@dtaubyte](https://instagram.com/dtaubyte)  
+ YouTube: [Taubyte](https://youtube.com/@taubyte)  
+ Discord: [Join](https://discord.gg/KbN3KN7kpQ)  
 
 <div align="center">
-  <p>Built with ❤️ by the Taubyte team</p>
-  <p>Star us on <a href="https://github.com/taubyte/tau">GitHub</a> if you find Tau useful</p>
+  <sub>Built by the Taubyte team · ⭐ Star if Tau makes your life easier</sub>
 </div>
