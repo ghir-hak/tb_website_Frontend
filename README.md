@@ -80,7 +80,6 @@ Fast-paced video series to get started with Tau.
 - [x] **Web Hosting** - Deploy websites and SPAs with automatic routing
 - [x] **Databases** - Key-value store with encryption and regex matching
 - [ ] **Extended Database Features** - Advanced queries and additional database types (Q1 2026)
-- [x] **Storage** - IPFS-backed object storage with versioning and deduplication
 - [x] **Messaging** - Real-time pub/sub via MQTT and WebSocket
 
 ### Developer Tools
