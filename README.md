@@ -35,15 +35,9 @@
 </div>
 
 <div align="center">
-  <a href="https://taubyte.com/doc">
-    <img width="250" alt="documentation" src="https://github.com/user-attachments/assets/0ac866d9-ff04-4bf9-b636-ca273aa0755d" />
-  </a>
-  <a href="https://discord.gg/KbN3KN7kpQ">
-    <img width="250" alt="joinourdiscord" src="https://github.com/user-attachments/assets/95bc52d9-d072-41b7-a01b-fd57def9ce01" />
-  </a>
-  <a href="https://taubyte.com/book-a-demo">
-    <img width="250" alt="requestademo" src="https://github.com/user-attachments/assets/40cb4513-0abd-44aa-ba44-42a328d2979b" />
-  </a>
+  <a href="https://taubyte.com/doc"><img src="images/gifs/documentation.png" width="32%"></a>
+  <a href="https://discord.gg/KbN3KN7kpQ"><img src="images/gifs/discord.png" width="32%"></a>
+  <a href="https://taubyte.com/book-a-demo"><img src="images/gifs/demo.png" width="32%"></a>
 </div>
 
 
@@ -53,7 +47,12 @@ Tau is an open-source, Git-native platform-as-a-service for building, deploying,
 <br/>
 <br/>
 
-<img width="3569" height="1296" alt="taubyte-features (2)" src="https://github.com/user-attachments/assets/e0d10302-2e94-4179-b6a3-fb26a0315258" />
+<img width="3577" height="628" alt="Group 252 (1)" src="https://github.com/user-attachments/assets/42c02013-1ddc-40ed-95da-68808d0d8d87" />
+<img width="1" height="1" alt="Rectangle 44 (1)" src="https://github.com/user-attachments/assets/6a91d09e-b6af-4e70-8096-638c4bf69808" />
+<img width="3576" height="628" alt="Group 253 (1)" src="https://github.com/user-attachments/assets/5fdda9e3-5f2c-4bb4-bfa8-cd0dc8ea396a" />
+
+
+
 
 ## Quickstart
 
