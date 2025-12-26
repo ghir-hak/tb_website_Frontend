@@ -1,12 +1,40 @@
 <div align="center">
 
-[![Release](https://img.shields.io/github/release/taubyte/tau.svg?color=blue)](https://github.com/taubyte/tau/releases)
-[![License](https://img.shields.io/github/license/taubyte/tau?color=blue)](LICENSE)
+<a href="https://taubyte.com" target="_blank">
+    <img alt="Product" src="https://img.shields.io/badge/Product-Taubyte-2563eb">
+</a>
+
+<a href="https://taubyte.com/pricing" target="_blank">
+    <img alt="Pricing" src="https://img.shields.io/badge/pricing-free-22c55e">
+</a>
+
+<a href="https://discord.gg/KbN3KN7kpQ" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/discord/973677117722202152?color=%235865f2&label=discord&logo=discord">
+</a>
+
+<a href="https://x.com/dtaubyte" target="_blank">
+    <img alt="X (Twitter)" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fdtaubyte&logo=X">
+</a>
+
+<a href="https://instagram.com/dtaubyte" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@dtaubyte-E4405F?logo=instagram&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/company/taubyte-page" target="_blank">
+    <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Taubyte-0A66C2?logo=linkedin-white&logoColor=fff">
+</a>
+
+<a href="https://github.com/taubyte/tau" target="_blank">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/taubyte/tau">
+</a>
 
 </div>
+<br/>
+
 
 <div align="center">
-  <img src="images/gifs/banner.png" width="100%">
+  <img width="3408" height="876" alt="banner-local-prod" src="https://github.com/user-attachments/assets/28caef4b-d327-4352-a332-79e726b2094a" />
+
 </div>
 
 <div align="center">
@@ -15,9 +43,18 @@
   <a href="https://taubyte.com/book-a-demo"><img src="images/gifs/demo.png" width="32%"></a>
 </div>
 
+<br/>
+
+## Quickstart
 Tau is an open-source, Git-native platform-as-a-service for building, deploying, and scaling applications. Infrastructure is defined in Git, eliminating API calls. Fully self-hosted with capabilities similar to Vercel, Netlify, and Cloudflare, plus built-in AI features.
 
-## Quick Start
+Get started with Tau in minutes. Follow our installation guide to set up your development environment and start building.
+
+**[🚀 Get Started →](https://tau.how/getting-started/local-cloud/)**
+
+<br/>
+
+## Overview
 
 ### Development Environment
 
