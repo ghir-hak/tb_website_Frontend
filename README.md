@@ -36,13 +36,13 @@
 
 <div align="center">
   <a href="https://taubyte.com/doc">
-    <img width="300" alt="documentation" src="https://github.com/user-attachments/assets/0ac866d9-ff04-4bf9-b636-ca273aa0755d" />
+    <img width="250" alt="documentation" src="https://github.com/user-attachments/assets/0ac866d9-ff04-4bf9-b636-ca273aa0755d" />
   </a>
   <a href="https://discord.gg/KbN3KN7kpQ">
-    <img width="300" alt="joinourdiscord" src="https://github.com/user-attachments/assets/95bc52d9-d072-41b7-a01b-fd57def9ce01" />
+    <img width="250" alt="joinourdiscord" src="https://github.com/user-attachments/assets/95bc52d9-d072-41b7-a01b-fd57def9ce01" />
   </a>
   <a href="https://taubyte.com/book-a-demo">
-    <img width="300" alt="requestademo" src="https://github.com/user-attachments/assets/40cb4513-0abd-44aa-ba44-42a328d2979b" />
+    <img width="250" alt="requestademo" src="https://github.com/user-attachments/assets/40cb4513-0abd-44aa-ba44-42a328d2979b" />
   </a>
 </div>
 
