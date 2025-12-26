@@ -46,13 +46,7 @@ Tau is an open-source, Git-native platform-as-a-service for building, deploying,
 
 <br/>
 <br/>
-
-<img width="3577" height="628" alt="Group 252 (1)" src="https://github.com/user-attachments/assets/42c02013-1ddc-40ed-95da-68808d0d8d87" />
-<img width="1" height="1" alt="Rectangle 44 (1)" src="https://github.com/user-attachments/assets/6a91d09e-b6af-4e70-8096-638c4bf69808" />
-<img width="3576" height="628" alt="Group 253 (1)" src="https://github.com/user-attachments/assets/5fdda9e3-5f2c-4bb4-bfa8-cd0dc8ea396a" />
-
-
-
+<img width="3580" height="1308" alt="Group 254 (1)" src="https://github.com/user-attachments/assets/05e9423b-eb5c-4b97-8773-d3bbe31a128e" />
 
 ## Quickstart
 
