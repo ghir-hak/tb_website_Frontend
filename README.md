@@ -5,10 +5,6 @@
 </a>
 <img width="1" height="1" alt="Rectangle 18" src="https://github.com/user-attachments/assets/1b206f98-e335-49a2-8991-fe478227e6f8" />
 
-<a href="https://taubyte.com/pricing" target="_blank">
-    <img alt="Pricing" src="https://img.shields.io/badge/pricing-free-22c55e">
-</a>
-<img width="1" height="1" alt="Rectangle 18" src="https://github.com/user-attachments/assets/1b206f98-e335-49a2-8991-fe478227e6f8" />
 
 <a href="https://discord.gg/KbN3KN7kpQ" target="_blank">
     <img alt="Discord" src="https://img.shields.io/discord/973677117722202152?color=%235865f2&label=discord&logo=discord">
@@ -20,10 +16,6 @@
 </a>
 <img width="1" height="1" alt="Rectangle 18" src="https://github.com/user-attachments/assets/1b206f98-e335-49a2-8991-fe478227e6f8" />
 
-<a href="https://instagram.com/dtaubyte" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@dtaubyte-E4405F?logo=instagram&logoColor=white">
-</a>
-<img width="1" height="1" alt="Rectangle 18" src="https://github.com/user-attachments/assets/1b206f98-e335-49a2-8991-fe478227e6f8" />
 
 <a href="https://www.linkedin.com/company/taubyte-page" target="_blank">
     <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Taubyte-0A66C2?logo=linkedin-white&logoColor=fff">
@@ -39,20 +31,31 @@
 
 
 <div align="center">
-  <img width="3408" height="876" alt="banner-local-prod" src="https://github.com/user-attachments/assets/28caef4b-d327-4352-a332-79e726b2094a" />
-
+  <img width="3408" height="876" alt="banner-build-locally-scale-gloabally-min" src="https://github.com/user-attachments/assets/930826b3-5b17-46b3-bab9-eb042481b909" />
 </div>
 
 <div align="center">
-  <a href="https://taubyte.com/doc"><img src="images/gifs/documentation.png" width="32%"></a>
-  <a href="https://discord.gg/KbN3KN7kpQ"><img src="images/gifs/discord.png" width="32%"></a>
-  <a href="https://taubyte.com/book-a-demo"><img src="images/gifs/demo.png" width="32%"></a>
+  <a href="https://taubyte.com/doc">
+    <img width="300" alt="documentation" src="https://github.com/user-attachments/assets/0ac866d9-ff04-4bf9-b636-ca273aa0755d" />
+  </a>
+  <a href="https://discord.gg/KbN3KN7kpQ">
+    <img width="300" alt="joinourdiscord" src="https://github.com/user-attachments/assets/95bc52d9-d072-41b7-a01b-fd57def9ce01" />
+  </a>
+  <a href="https://taubyte.com/book-a-demo">
+    <img width="300" alt="requestademo" src="https://github.com/user-attachments/assets/40cb4513-0abd-44aa-ba44-42a328d2979b" />
+  </a>
 </div>
 
+
+<br/>
+Tau is an open-source, Git-native platform-as-a-service for building, deploying, and scaling applications. Infrastructure is defined in Git, eliminating API calls. Fully self-hosted with capabilities similar to Vercel, Netlify, and Cloudflare, plus built-in AI features.
+
+<br/>
 <br/>
 
+<img width="3569" height="1296" alt="taubyte-features (2)" src="https://github.com/user-attachments/assets/e0d10302-2e94-4179-b6a3-fb26a0315258" />
+
 ## Quickstart
-Tau is an open-source, Git-native platform-as-a-service for building, deploying, and scaling applications. Infrastructure is defined in Git, eliminating API calls. Fully self-hosted with capabilities similar to Vercel, Netlify, and Cloudflare, plus built-in AI features.
 
 Get started with Tau in minutes. Follow our installation guide to set up your development environment and start building.
 
