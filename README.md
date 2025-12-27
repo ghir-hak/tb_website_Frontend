@@ -33,13 +33,14 @@
 <div align="center">
     <img width="3408" height="652" alt="Frame 8 (2)" src="https://github.com/user-attachments/assets/77b68810-aced-41d2-9c0f-5f719c9fdbf8" />
 </div>
-<br/>
+
 <div align="center">
-  <a href="https://taubyte.com/doc"><img width="32.5%" alt="Frame 257" src="https://github.com/user-attachments/assets/24b033e5-b91c-4b40-a667-25ab5a2f0a05" />
+  <a href="https://taubyte.com/doc"><img width="25%"  alt="Frame 257 (1)" src="https://github.com/user-attachments/assets/cb72dda9-f0bd-4d33-ac4a-4df37160b41f" />
 </a>
-  <a href="https://discord.gg/KbN3KN7kpQ"><img width="32.5%" alt="Frame 258" src="https://github.com/user-attachments/assets/da30caf2-927d-4f31-83d7-f9df1b93b9ce" />
+  <a href="https://discord.gg/KbN3KN7kpQ"><img width="25%" alt="Frame 258 (1)" src="https://github.com/user-attachments/assets/40656ae7-9494-4cd4-86a1-6f4e601f038e" />
 </a>
-  <a href="https://taubyte.com/book-a-demo"><img width="32.5%" alt="Frame 259" src="https://github.com/user-attachments/assets/21ecbc59-7361-4f41-9a83-7fda3390a08e" />
+  <a href="https://taubyte.com/book-a-demo"><img width="25%" alt="Frame 259 (1)" src="https://github.com/user-attachments/assets/fa801176-f25e-47ea-b405-80f9f82a4dfd" />
+
 </a>
 </div>
 
