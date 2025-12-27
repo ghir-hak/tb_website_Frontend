@@ -31,7 +31,7 @@
 
 
 <div align="center">
-    <img width="3568" height="876" alt="Frame 244" src="https://github.com/user-attachments/assets/da13a0d0-dfc4-46a8-9189-6613f5b8ae7c" />
+    <img width="3408" height="652" alt="Frame 8 (2)" src="https://github.com/user-attachments/assets/77b68810-aced-41d2-9c0f-5f719c9fdbf8" />
 </div>
 <br/>
 <div align="center">
