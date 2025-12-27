@@ -31,34 +31,28 @@
 
 
 <div align="center">
-  <img width="3408" height="876" alt="banner-build-locally-scale-gloabally-min" src="https://github.com/user-attachments/assets/930826b3-5b17-46b3-bab9-eb042481b909" />
+    <img width="3568" height="876" alt="Frame 244" src="https://github.com/user-attachments/assets/da13a0d0-dfc4-46a8-9189-6613f5b8ae7c" />
 </div>
-
+<br/>
 <div align="center">
-  <a href="https://taubyte.com/doc"><img src="images/gifs/documentation.png" width="32%"></a>
-  <a href="https://discord.gg/KbN3KN7kpQ"><img src="images/gifs/discord.png" width="32%"></a>
-  <a href="https://taubyte.com/book-a-demo"><img src="images/gifs/demo.png" width="32%"></a>
+  <a href="https://taubyte.com/doc"><img width="33%" alt="Frame 257" src="https://github.com/user-attachments/assets/24b033e5-b91c-4b40-a667-25ab5a2f0a05" />
+</a>
+  <a href="https://discord.gg/KbN3KN7kpQ"><img width="33%" alt="Frame 258" src="https://github.com/user-attachments/assets/da30caf2-927d-4f31-83d7-f9df1b93b9ce" />
+</a>
+  <a href="https://taubyte.com/book-a-demo"><img width="33%" alt="Frame 259" src="https://github.com/user-attachments/assets/21ecbc59-7361-4f41-9a83-7fda3390a08e" />
+</a>
 </div>
 
 
 <br/>
 Tau is an open-source, Git-native platform-as-a-service for building, deploying, and scaling applications. Infrastructure is defined in Git, eliminating API calls. Fully self-hosted with capabilities similar to Vercel, Netlify, and Cloudflare, plus built-in AI features.
-
 <br/>
 <br/>
-<img width="3580" height="1308" alt="Group 254 (1)" src="https://github.com/user-attachments/assets/05e9423b-eb5c-4b97-8773-d3bbe31a128e" />
+<img width="3568" height="1300" alt="Group 255" src="https://github.com/user-attachments/assets/6875c101-50b4-4937-870d-2f013d8eb1eb" />
 
-## Quickstart
 
-Get started with Tau in minutes. Follow our installation guide to set up your development environment and start building.
 
-**[🚀 Get Started →](https://tau.how/getting-started/local-cloud/)**
-
-<br/>
-
-## Overview
-
-### Development Environment
+#### Development Environment
 
 <div align="center">
   <img src="images/gifs/dreamcli.gif" width="32%">
@@ -68,7 +62,7 @@ Get started with Tau in minutes. Follow our installation guide to set up your de
   <img src="images/gifs/connect.gif" width="32%">
 </div>
 
-### Build Your Application
+#### Build Your Application
 
 <div align="center">
   <img src="images/gifs/newproject.gif" width="32%">
@@ -78,7 +72,7 @@ Get started with Tau in minutes. Follow our installation guide to set up your de
   <img src="images/gifs/pushall.gif" width="32%">
 </div>
 
-### Deploy and Run
+#### Deploy and Run
 
 <div align="center">
   <img src="images/gifs/builds.gif" width="32%">
@@ -88,16 +82,21 @@ Get started with Tau in minutes. Follow our installation guide to set up your de
   <img src="images/gifs/spore-drive.gif" width="32%">
 </div>
 
-### Example Projects
+#### Example Projects
 
 <div align="center">
   <a href="https://youtu.be/RIdwJQB3Tk0"><img src="images/gifs/pixel.png" width="48%" style="border-radius: 15px; margin: 5px;"></a>
   <a href="https://youtu.be/gMTYh-gQLgA"><img src="images/gifs/tower.png" width="48%" style="border-radius: 15px; margin: 5px;"></a>
 </div>
 
-### The Hitchhiker's Guide To Taubyte
 
-Fast-paced video series to get started with Tau.
+## Quickstart
+
+Get started with Tau in minutes. Follow our installation guide to set up your development environment and start building.
+**[🚀 Get Started →](https://tau.how/getting-started/local-cloud/)**
+
+Or if you prefer video check our **Hitchhiker's Guide To Taubyte** &#x2935;
+
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=8FO1KiTE0FE"><img src="images/gifs/vid1.png" width="32%"></a>
@@ -110,6 +109,10 @@ Fast-paced video series to get started with Tau.
   <a href="https://www.youtube.com/playlist?list=PLLKNB3tJrL9Y4nl0JnBhU2wHS4iWldUfh"><img src="images/gifs/vid5.png" width="32%"></a>
   <a href="https://www.youtube.com/playlist?list=PLLKNB3tJrL9Y4nl0JnBhU2wHS4iWldUfh"><img src="images/gifs/vid6.png" width="32%"></a>
 </div>
+
+
+<br/>
+
 
 ## Features
 
