@@ -35,11 +35,11 @@
 </div>
 <br/>
 <div align="center">
-  <a href="https://taubyte.com/doc"><img width="33%" alt="Frame 257" src="https://github.com/user-attachments/assets/24b033e5-b91c-4b40-a667-25ab5a2f0a05" />
+  <a href="https://taubyte.com/doc"><img width="32.5%" alt="Frame 257" src="https://github.com/user-attachments/assets/24b033e5-b91c-4b40-a667-25ab5a2f0a05" />
 </a>
-  <a href="https://discord.gg/KbN3KN7kpQ"><img width="33%" alt="Frame 258" src="https://github.com/user-attachments/assets/da30caf2-927d-4f31-83d7-f9df1b93b9ce" />
+  <a href="https://discord.gg/KbN3KN7kpQ"><img width="32.5%" alt="Frame 258" src="https://github.com/user-attachments/assets/da30caf2-927d-4f31-83d7-f9df1b93b9ce" />
 </a>
-  <a href="https://taubyte.com/book-a-demo"><img width="33%" alt="Frame 259" src="https://github.com/user-attachments/assets/21ecbc59-7361-4f41-9a83-7fda3390a08e" />
+  <a href="https://taubyte.com/book-a-demo"><img width="32.5%" alt="Frame 259" src="https://github.com/user-attachments/assets/21ecbc59-7361-4f41-9a83-7fda3390a08e" />
 </a>
 </div>
 
