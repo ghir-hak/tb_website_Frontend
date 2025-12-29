@@ -46,7 +46,7 @@
 
 
 <br/>
-Tau is an open-source, Git-native platform-as-a-service for building, deploying, and scaling applications. Infrastructure is defined in Git, eliminating API calls. Fully self-hosted with capabilities similar to Vercel, Netlify, and Cloudflare, plus built-in AI features.
+Tau is an open-source, Git-native platform-as-a-service for building, deploying, and scaling applications. Infrastructure is defined in Git, eliminating API calls. Fully self-hosted with capabilities similar to Vercel, Firebase, and Cloudflare, plus built-in AI features.
 <br/>
 <br/>
 <img width="3568" height="1568" alt="Group 257 (1)" src="https://github.com/user-attachments/assets/ea62d31b-96fe-4621-ba80-6162950bd64a" />
@@ -91,22 +91,30 @@ Tau is an open-source, Git-native platform-as-a-service for building, deploying,
 </div>
 
 
-## Quickstart
+##  Quick Start
 
-quick start
-    - Run a cloud locally - fastest way to get used to taubyte -> tau.how...
-    - Deploy a cloud to our servers/vms
-        - manually -> link
-        - automated with spore-drive -> link
-Or if you prefer video, we've got you covered with the Hictynhhicker....
+Get up and running with Taubyte in minutes—choose the path that works best for you.
 
+### Run a Cloud Locally 
 
-Get started with Tau in minutes. Follow our installation guide to set up your development environment and start building.
-**[Get Started →](https://tau.how/getting-started/local-cloud/)**
+The quickest way to try Taubyte on your machine:
+→ [https://tau.how/getting-started/local-cloud/](https://tau.how/getting-started/local-cloud/)
 
-Or if you prefer video check our **Hitchhiker's Guide To Taubyte**
+### Deploy a Cloud to Our Infrastructure
 
+Run Taubyte on your own Server and/or VMs:
 
+* Manual deployment
+  → [https://tau.how/platform/deployment/](https://tau.how/platform/deployment/)
+
+* Automated deployment with Spore Drive
+  → [https://tau.how/platform/spore-drive/](https://tau.how/platform/spore-drive/)
+
+### Prefer Video?
+
+Check out the **Hitchhiker's Guide to Taubyte** for guided walkthroughs and demos:
+
+<br>
 <div align="center">
   <a href="https://www.youtube.com/watch?v=8FO1KiTE0FE"><img src="images/gifs/vid1.png" width="32%"></a>
   <a href="https://www.youtube.com/watch?v=ajdcUGd2SeE"><img src="images/gifs/vid2.png" width="32%"></a>
