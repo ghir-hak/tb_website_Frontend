@@ -134,21 +134,28 @@ Tau thrives with your help. Fix bugs, add features, improve docs, or guide the c
 - Keep commits focused and describe **what** & **why** clearly
 - New here? Look for `good first issue`
 
-**Get started**
-- Explore [documentation](https://taubyte.com/doc)
-- Join [Discord](https://discord.gg/KbN3KN7kpQ) for support and discussions
-
 ## License
 
 BSD-3-Clause license. See [LICENSE](LICENSE) for details.
 
-## Connect
-
-Follow, watch, and chat with us:
- X: [@dtaubyte](https://x.com/dtaubyte)
- Instagram: [@dtaubyte](https://instagram.com/dtaubyte)
- YouTube: [Taubyte](https://youtube.com/@taubyte)
- Discord: [Join](https://discord.gg/KbN3KN7kpQ)
+<br/>
+<p align="center">
+  <a href="https://x.com/dtaubyte" aria-label="X (Twitter)">
+    <img src="https://img.shields.io/badge/X-000000?logo=X&logoColor=white" alt="X">
+  </a>
+  &nbsp;
+  <a href="https://youtube.com/@taubyte" aria-label="YouTube">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  &nbsp;
+  <a href="https://discord.gg/KbN3KN7kpQ" aria-label="Discord">
+    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord">
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/dtaubyte" aria-label="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
 <div align="center">
   <sub>Built by the Taubyte team · Star if Tau makes your life easier</sub>
