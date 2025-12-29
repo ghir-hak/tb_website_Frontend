@@ -134,7 +134,7 @@ Check out the **Hitchhiker's Guide to Taubyte** for guided walkthroughs and demo
 
 ## Staying ahead
 
-Star Taubyte on GitHub and be instantly notified of new releases.
+Star us on GitHub and be instantly notified of new releases.
 
 <div align="center">
 
