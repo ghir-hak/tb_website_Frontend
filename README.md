@@ -131,7 +131,7 @@ Tau thrives with your help. Fix bugs, add features, improve docs, or guide the c
 
 **How to contribute**
 - Fork → branch from `main` → make changes → test → submit a PR
-- Keep commits focused and describe **what** & **why** clearly
+- Keep commits focused and describe what & why clearly
 - New here? Look for `good first issue`
 
 ## License
