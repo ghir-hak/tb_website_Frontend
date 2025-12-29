@@ -158,5 +158,5 @@ BSD-3-Clause license. See [LICENSE](LICENSE) for details.
 </p>
 
 <div align="center">
-  <sub>Built by the Taubyte team · Star if Tau makes your life easier</sub>
+  <sub>Built by the Taubyte team</sub>
 </div>
