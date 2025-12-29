@@ -5,7 +5,6 @@
 </a>
 <img width="1" height="1" alt="Rectangle 18" src="https://github.com/user-attachments/assets/1b206f98-e335-49a2-8991-fe478227e6f8" />
 
-
 <a href="https://discord.gg/KbN3KN7kpQ" target="_blank">
     <img alt="Discord" src="https://img.shields.io/discord/973677117722202152?color=%235865f2&label=discord&logo=discord">
 </a>
@@ -15,7 +14,6 @@
     <img alt="X (Twitter)" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fdtaubyte&logo=X">
 </a>
 <img width="1" height="1" alt="Rectangle 18" src="https://github.com/user-attachments/assets/1b206f98-e335-49a2-8991-fe478227e6f8" />
-
 
 <a href="https://www.linkedin.com/company/taubyte-page" target="_blank">
     <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Taubyte-0A66C2?logo=linkedin-white&logoColor=fff">
@@ -29,73 +27,64 @@
 </div>
 <br/>
 
-
 <div align="center">
-    <img width="3408" height="652" alt="Frame 8 (2)" src="https://github.com/user-attachments/assets/77b68810-aced-41d2-9c0f-5f719c9fdbf8" />
+    <img width="3408" height="652" alt="Full stack workspace for humans and machines which is the taubyte slogan" src="https://github.com/user-attachments/assets/77b68810-aced-41d2-9c0f-5f719c9fdbf8" />
 </div>
 
 <div align="center">
-  <a href="https://taubyte.com/doc"><img width="25%"  alt="Frame 257 (1)" src="https://github.com/user-attachments/assets/cb72dda9-f0bd-4d33-ac4a-4df37160b41f" />
-</a>
-  <a href="https://discord.gg/KbN3KN7kpQ"><img width="25%" alt="Frame 258 (1)" src="https://github.com/user-attachments/assets/40656ae7-9494-4cd4-86a1-6f4e601f038e" />
-</a>
-  <a href="https://taubyte.com/book-a-demo"><img width="25%" alt="Frame 259 (1)" src="https://github.com/user-attachments/assets/fa801176-f25e-47ea-b405-80f9f82a4dfd" />
-
-</a>
+  <a href="https://taubyte.com/doc"><img width="25%"  alt="Documentation" src="https://github.com/user-attachments/assets/cb72dda9-f0bd-4d33-ac4a-4df37160b41f" /></a>
+  <a href="https://discord.gg/KbN3KN7kpQ"><img width="25%" alt="Join Discord" src="https://github.com/user-attachments/assets/40656ae7-9494-4cd4-86a1-6f4e601f038e" /></a>
+  <a href="https://taubyte.com/book-a-demo"><img width="25%" alt="Book a ticket" src="https://github.com/user-attachments/assets/fa801176-f25e-47ea-b405-80f9f82a4dfd" /></a>
 </div>
-
 
 <br/>
 Tau is an open-source, Git-native platform-as-a-service for building, deploying, and scaling applications. Infrastructure is defined in Git, eliminating API calls. Fully self-hosted with capabilities similar to Vercel, Firebase, and Cloudflare, plus built-in AI features.
 <br/>
 <br/>
-<img width="3568" height="1568" alt="Group 257 (1)" src="https://github.com/user-attachments/assets/ea62d31b-96fe-4621-ba80-6162950bd64a" />
-
-
+<img width="3568" height="1568" alt="Taubyte local cloud solution diagram showing E2E testing, console with functions, web hosting, KV databases, object storage, PubSub messaging, load balancing, HTTP/DNS, automatic HTTPS, and private networking" src="https://github.com/user-attachments/assets/ea62d31b-96fe-4621-ba80-6162950bd64a" />
 
 #### Development Environment
 
 <div align="center">
-  <img src="images/gifs/dreamcli.gif" width="32%">
+  <img src="images/gifs/dreamcli.gif" width="32%" alt="DreamCLI - dream new multiverse command which creates a new local cloud or so called universe">
   <img src="images/gifs/5px.png">
-  <img src="images/gifs/dreamdesktop.gif" width="32%">
+  <img src="images/gifs/dreamdesktop.gif" width="32%" alt="Dream Desktop - Creating a universe with the GUI version of DreamCLI">
   <img src="images/gifs/5px.png">
-  <img src="images/gifs/connect.gif" width="32%">
+  <img src="images/gifs/connect.gif" width="32%" alt="Web Console - Connect and visualize your clouds on the browser">
 </div>
 
 #### Build Your Application
 
 <div align="center">
-  <img src="images/gifs/newproject.gif" width="32%">
+  <img src="images/gifs/newproject.gif" width="32%" alt="Web Console - Creating a new project">
   <img src="images/gifs/5px.png">
-  <img src="images/gifs/newfunction.gif" width="32%">
+  <img src="images/gifs/newfunction.gif" width="32%" alt="Web Console - Creating a new function">
   <img src="images/gifs/5px.png">
-  <img src="images/gifs/pushall.gif" width="32%">
+  <img src="images/gifs/pushall.gif" width="32%" alt="Dream Desktop - Pushing changes">
 </div>
 
 #### Deploy and Run
 
 <div align="center">
-  <img src="images/gifs/builds.gif" width="32%">
+  <img src="images/gifs/builds.gif" width="32%" alt="Web Console - Build tab interface">
   <img src="images/gifs/5px.png">
-  <img src="images/gifs/runfunction.gif" width="32%">
+  <img src="images/gifs/runfunction.gif" width="32%" alt="Web Console - Executing a function">
   <img src="images/gifs/5px.png">
-  <img src="images/gifs/spore-drive.gif" width="32%">
+  <img src="images/gifs/spore-drive.gif" width="32%" alt="Spore Drive - Deploying a new cloud">
 </div>
 
 #### Example Projects
 
 <div align="center">
-  <a href="https://youtu.be/RIdwJQB3Tk0"><img src="images/gifs/pixel.png" width="48%" style="border-radius: 15px; margin: 5px;"></a>
-  <a href="https://youtu.be/gMTYh-gQLgA"><img src="images/gifs/tower.png" width="48%" style="border-radius: 15px; margin: 5px;"></a>
+  <a href="https://youtu.be/RIdwJQB3Tk0"><img src="images/gifs/pixel.png" width="48%" style="border-radius: 15px; margin: 5px;" alt="Example Project: Pixel Game"></a>
+  <a href="https://youtu.be/gMTYh-gQLgA"><img src="images/gifs/tower.png" width="48%" style="border-radius: 15px; margin: 5px;" alt="Example Project: Tower Blocks Game"></a>
 </div>
 
-
-##  Quick Start
+## Quick Start
 
 Get up and running with Taubyte in minutes—choose the path that works best for you.
 
-### Run a Cloud Locally 
+### Run a Cloud Locally
 
 The quickest way to try Taubyte on your machine:
 → [https://tau.how/getting-started/local-cloud/](https://tau.how/getting-started/local-cloud/)
@@ -116,21 +105,18 @@ Check out the **Hitchhiker's Guide to Taubyte** for guided walkthroughs and demo
 
 <br>
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=8FO1KiTE0FE"><img src="images/gifs/vid1.png" width="32%"></a>
-  <a href="https://www.youtube.com/watch?v=ajdcUGd2SeE"><img src="images/gifs/vid2.png" width="32%"></a>
-  <a href="https://www.youtube.com/watch?v=YyZHCBkjCOU"><img src="images/gifs/vid3.png" width="32%"></a>
+  <a href="https://www.youtube.com/watch?v=8FO1KiTE0FE"><img src="images/gifs/vid1.png" width="32%" alt="Video: Deploying a Taubyte Cloud"></a>
+  <a href="https://www.youtube.com/watch?v=ajdcUGd2SeE"><img src="images/gifs/vid2.png" width="32%" alt="Video: Local Taubyte Cloud using DreamCLI"></a>
+  <a href="https://www.youtube.com/watch?v=YyZHCBkjCOU"><img src="images/gifs/vid3.png" width="32%" alt="Video: Create a project using the Web Console"></a>
 </div>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=IDUI7a96gSw&t=10s"><img src="images/gifs/vid4.png" width="32%"></a>
-  <a href="https://www.youtube.com/playlist?list=PLLKNB3tJrL9Y4nl0JnBhU2wHS4iWldUfh"><img src="images/gifs/vid5.png" width="32%"></a>
-  <a href="https://www.youtube.com/playlist?list=PLLKNB3tJrL9Y4nl0JnBhU2wHS4iWldUfh"><img src="images/gifs/vid6.png" width="32%"></a>
+  <a href="https://www.youtube.com/watch?v=IDUI7a96gSw&t=10s"><img src="images/gifs/vid4.png" width="32%" alt="Video: Working with Functions"></a>
+  <a href="https://www.youtube.com/playlist?list=PLLKNB3tJrL9Y4nl0JnBhU2wHS4iWldUfh"><img src="images/gifs/vid5.png" width="32%" alt="Full Playlist: Hitchhiker's Guide to Taubyte"></a>
+  <a href="https://www.youtube.com/playlist?list=PLLKNB3tJrL9Y4nl0JnBhU2wHS4iWldUfh"><img src="images/gifs/vid6.png" width="32%" alt="Full Playlist: Hitchhiker's Guide to Taubyte"></a>
 </div>
 
-
 <br/>
-
-
 
 ## Staying ahead
 
@@ -138,36 +124,34 @@ Star us on GitHub and be instantly notified of new releases.
 
 <div align="center">
 
-![gif-star-repo-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/343e2d29-0df5-490a-aee1-53fc0604c05a)
+![GIF showing starring our Taubyte repo](https://github.com/user-attachments/assets/ac0f6541-3107-4bed-a0e0-6ecb5fd0a363)
 
 </div>
 
+## Contributing
 
-##  Contributing
+Tau thrives with your help. Fix bugs, add features, improve docs, or guide the community.
 
-Tau thrives with your help. Fix bugs, add features, improve docs, or guide the community.  
+**How to contribute**
+- Fork → branch from `main` → make changes → test → submit a PR
+- Keep commits focused and describe **what** & **why** clearly
+- New here? Look for `good first issue`
 
-**How to contribute**  
-- Fork → branch from `main` → make changes → test → submit a PR  
-- Keep commits focused and describe **what** & **why** clearly  
-- New here? Look for `good first issue`  
+**Get started**
+- Explore [documentation](https://taubyte.com/doc)
+- Join [Discord](https://discord.gg/KbN3KN7kpQ) for support and discussions
 
+## License
 
-**Get started**  
-- Explore [documentation](https://taubyte.com/doc)  
-- Join [Discord](https://discord.gg/KbN3KN7kpQ) for support and discussions  
-
-##  License
-
-BSD-3-Clause license. See [LICENSE](LICENSE) for details.  
+BSD-3-Clause license. See [LICENSE](LICENSE) for details.
 
 ## Connect
 
-Follow, watch, and chat with us:  
- X: [@dtaubyte](https://x.com/dtaubyte)  
- Instagram: [@dtaubyte](https://instagram.com/dtaubyte)  
- YouTube: [Taubyte](https://youtube.com/@taubyte)  
- Discord: [Join](https://discord.gg/KbN3KN7kpQ)  
+Follow, watch, and chat with us:
+ X: [@dtaubyte](https://x.com/dtaubyte)
+ Instagram: [@dtaubyte](https://instagram.com/dtaubyte)
+ YouTube: [Taubyte](https://youtube.com/@taubyte)
+ Discord: [Join](https://discord.gg/KbN3KN7kpQ)
 
 <div align="center">
   <sub>Built by the Taubyte team · Star if Tau makes your life easier</sub>
