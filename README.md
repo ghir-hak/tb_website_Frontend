@@ -93,6 +93,14 @@ Tau is an open-source, Git-native platform-as-a-service for building, deploying,
 
 ## Quickstart
 
+quick start
+    - Run a cloud locally - fastest way to get used to taubyte -> tau.how...
+    - Deploy a cloud to our servers/vms
+        - manually -> link
+        - automated with spore-drive -> link
+Or if you prefer video, we've got you covered with the Hictynhhicker....
+
+
 Get started with Tau in minutes. Follow our installation guide to set up your development environment and start building.
 **[Get Started →](https://tau.how/getting-started/local-cloud/)**
 
@@ -115,27 +123,6 @@ Or if you prefer video check our **Hitchhiker's Guide To Taubyte**
 <br/>
 
 
-## Project status
-
-Taubyte is currently in active development and is not ready for production use. Features may change significantly and there may be breaking changes between releases.
-
-We'd love your input! Here's how you can contribute:
-
-- **Found a bug?** [Open an issue](https://github.com/taubyte/tau/issues)
-- **Have questions, ideas, or need help?** [Start a discussion or join an existing one in the Discussions](https://github.com/orgs/taubyte/discussions).
-- [Join our Discord community](https://discord.gg/KbN3KN7kpQ) where we discuss features, roadmap, implementation details, and help each other out.
-
-
-## Why Taubyte?
-
-Modern cloud platforms like Vercel, Netlify, and Cloudflare offer amazing developer experiences but with vendor lock-in and limited control. Traditional platforms like Kubernetes provide power and flexibility but require significant operational expertise and complex configurations. I believe there's a sweet spot in between — a pragmatic solution for the majority of us who aren't running at Google scale. You should be able to:
-
-- **Own your infrastructure and data:** Whether driven by costs, compliance, or flexibility, run applications on any combination of cloud VMs and personal hardware while controlling your data and maintaining the cloud-like experience you love.
-- **Stay simple as you grow:** Start with a single machine and add more whenever you need without changing your workflow. No worrying about highly-available control planes or complex YAML configurations. Infrastructure is defined in Git, making it version-controlled and reproducible.
-- **Build with proven primitives:** Get production-grade networking, deployment primitives, service discovery, load balancing, and ingress with HTTPS out of the box without becoming a distributed systems expert.
-- **Support sustainable computing:** Minimise system overhead to maximise resources available for your applications. WebAssembly runtime provides portability and sandboxing with minimal resource consumption.
-
-Taubyte's goal is to make deployment and management of serverless applications feel as seamless as using a cloud platform, whether you're running on a $5 VPS, a spare Mac mini, or a rack of bare metal servers, all while keeping your infrastructure Git-native and fully self-hosted.
 
 ## Staying ahead
 
