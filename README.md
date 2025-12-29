@@ -151,7 +151,7 @@ Tau thrives with your help. Fix bugs, add features, improve docs, or guide the c
 
 ##  License
 
-BSD-style license. See [LICENSE](LICENSE) for details.  
+BSD-3-Clause license. See [LICENSE](LICENSE) for details.  
 
 ## Connect
 
